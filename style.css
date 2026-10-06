@@ -1,0 +1,78 @@
+:root {
+  --background: #000;
+  --page-background: #111225;
+  --text-primary: #fff6ee;
+  --text-secondary: #c6c3d8;
+  --accent: #ff88ad;
+  --font-body: system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-display: Georgia, "Times New Roman", serif;
+  --page-width: 480px;
+  --page-padding: clamp(22px, 6vw, 36px);
+  --motion-duration: 650ms;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; width: 100%; height: 100%; }
+body { background: var(--background); color: var(--text-primary); font-family: var(--font-body); display: grid; place-items: center; }
+.birthday-book {
+  width: min(100%, var(--page-width)); height: 100vh; height: 100dvh;
+  overflow-y: auto; overflow-x: hidden; scroll-snap-type: y mandatory;
+  overscroll-behavior-y: contain; scrollbar-width: none; position: relative;
+}
+.birthday-book::-webkit-scrollbar { display: none; }
+.birthday-book:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+.birthday-page {
+  height: 100%; min-height: 100%; scroll-snap-align: start;
+  scroll-snap-stop: always; position: relative; display: flex; flex-direction: column;
+  padding: max(26px, env(safe-area-inset-top)) var(--page-padding) max(22px, env(safe-area-inset-bottom));
+  background: var(--page-background); isolation: isolate;
+}
+.page-1 { background: radial-gradient(ellipse at 90% 10%, #43233e 0%, transparent 55%), radial-gradient(ellipse at 5% 85%, #242650 0%, transparent 55%), var(--page-background); }
+.page-2 { background: radial-gradient(ellipse at 10% 50%, #27384e 0%, transparent 70%), #121d2b; }
+.page-3 { background: radial-gradient(ellipse at 85% 80%, #48263c 0%, transparent 65%), #21172b; }
+.page-content { width: 100%; margin: auto 0; text-align: center; padding: 20px 0; }
+.eyebrow { font-size: .75rem; letter-spacing: .2em; font-weight: 600; color: var(--accent); margin: 0 0 24px; }
+.hero-emoji { display: block; font-size: clamp(56px, 10vh, 88px); margin-bottom: 22px; }
+h1, h2 { font-family: var(--font-display); font-weight: 400; line-height: 1.04; margin: 0 0 24px; letter-spacing: -.035em; }
+h1 { font-size: clamp(2.6rem, 10vw, 3.6rem); }
+h2 { font-size: clamp(2.5rem, 10vw, 3.4rem); }
+em { color: var(--accent); font-weight: 400; }
+p { font-size: 1rem; line-height: 1.7; color: var(--text-secondary); margin: 0 0 22px; overflow-wrap: anywhere; }
+.gift-button { margin-top: 12px; padding: 16px 32px; min-height: 52px; border: 0; border-radius: 100px; color: #251324; background: var(--accent); font: 600 1rem var(--font-body); cursor: pointer; transition: transform 180ms, background 180ms; box-shadow: 0 8px 32px #ff88ad22; }
+.gift-button:hover { background: #ffa7c2; transform: translateY(-2px); }
+.gift-button:active { transform: scale(.96); }
+.gift-button:focus-visible { outline: 3px solid white; outline-offset: 5px; }
+.photo-placeholder { min-height: 180px; height: clamp(160px, 28vh, 240px); border: 1px dashed #a4bdcc80; border-radius: 14px; background: #ffffff05; display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 12px; padding: 20px; margin-top: 26px; color: var(--text-secondary); }
+.photo-placeholder > span:first-child { font-size: 2rem; }
+.photo-placeholder strong { font-size: 1rem; color: var(--text-primary); font-weight: 500; }
+.photo-placeholder > span:last-child { font-size: .875rem; }
+.closing { color: var(--text-primary); font-family: var(--font-display); font-size: 1.45rem; line-height: 1.45; border-top: 1px solid #ff88ad40; padding-top: 26px; margin-top: 28px; }
+.page-footer { display: flex; justify-content: space-between; align-items: center; gap: 12px; font-size: .75rem; color: var(--text-secondary); flex-shrink: 0; }
+.page-footer > span:first-child { letter-spacing: .12em; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+/* Content stays visible if JavaScript is unavailable. */
+.motion-enabled .reveal { opacity: 0; transform: translateY(16px); transition: opacity var(--motion-duration) ease, transform var(--motion-duration) ease; }
+.motion-enabled .is-visible .reveal { opacity: 1; transform: none; }
+@media (min-aspect-ratio: 3/4) {
+  .birthday-book { width: min(var(--page-width), 56.25dvh); }
+}
+/* Compact layouts keep the same full-screen pages on short phones. */
+@media (max-height: 650px) {
+  .birthday-page { padding-top: max(16px, env(safe-area-inset-top)); padding-bottom: max(16px, env(safe-area-inset-bottom)); }
+  .page-content { padding: 8px 0; }
+  .eyebrow { margin-bottom: 14px; }
+  .hero-emoji { font-size: 48px; margin-bottom: 12px; }
+  h1, h2 { font-size: 2.4rem; margin-bottom: 16px; }
+  p { margin-bottom: 12px; line-height: 1.5; }
+  .photo-placeholder { min-height: 125px; height: 24vh; margin-top: 14px; gap: 8px; }
+  .closing { font-size: 1.2rem; padding-top: 16px; margin-top: 16px; }
+}
+/* Large text or landscape can scroll within a slide instead of clipping it. */
+@media (max-height: 450px) {
+  .birthday-page { overflow-y: auto; }
+  .page-content { margin: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  :root { --motion-duration: 0ms; }
+  .motion-enabled .reveal { opacity: 1; transform: none; }
+  .gift-button { transition: none; }
+}
