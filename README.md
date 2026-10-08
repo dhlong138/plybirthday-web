@@ -1,5 +1,9 @@
 # Birthday Web
 
+## Màn hình mật mã
+
+Nhập 4 số `2207` bằng bàn phím tròn hoặc phím số trên máy tính để mở các slide. Sai mã hiện meme; bấm “Thử lại” hoặc Escape để tiếp tục, không giới hạn số lượt. Tải lại trang sẽ hỏi mã lại. Ảnh meme nằm tại `assets/wrong-code-meme.png`; mã đặt trong biến `passcode` ở `script.js`. Đây là màn mở quà trên static web, không phải cơ chế bảo vệ dữ liệu: người xem có thể đọc mã trong source.
+
 Prototype sinh nhật gồm đúng 3 slide, HTML/CSS/JavaScript thuần. Không cần build, dependency hoặc backend. Vuốt/cuộn để chuyển trang; nút “Mở quà 🎁” chuyển sang trang 2. Hỗ trợ phím ↑/↓, Page Up/Down, Home/End khi vùng nội dung được focus, và giảm chuyển động theo cài đặt thiết bị.
 
 ## Xem thử

@@ -11,7 +11,36 @@
   <script src="./script.js" defer></script>
 </head>
 <body>
-  <main class="birthday-book" aria-label="Món quà sinh nhật" tabindex="0">
+  <div class="lock-screen" aria-labelledby="lock-title">
+    <div class="lock-content">
+      <div class="lock-icon" aria-hidden="true">🔒</div>
+      <h2 id="lock-title">Nhập mật mã</h2>
+      <p>Một bí mật nhỏ dành cho bạn</p>
+      <div class="passcode-dots" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+      <span class="sr-only" id="code-status" role="status" aria-live="polite">Đã nhập 0 trên 4 số</span>
+      <div class="keypad" aria-label="Bàn phím mật mã">
+        <button type="button" data-digit="1">1<span>&nbsp;</span></button>
+        <button type="button" data-digit="2">2<span>ABC</span></button>
+        <button type="button" data-digit="3">3<span>DEF</span></button>
+        <button type="button" data-digit="4">4<span>GHI</span></button>
+        <button type="button" data-digit="5">5<span>JKL</span></button>
+        <button type="button" data-digit="6">6<span>MNO</span></button>
+        <button type="button" data-digit="7">7<span>PQRS</span></button>
+        <button type="button" data-digit="8">8<span>TUV</span></button>
+        <button type="button" data-digit="9">9<span>WXYZ</span></button>
+        <span></span><button type="button" data-digit="0">0</button>
+        <button type="button" class="delete-digit" aria-label="Xóa số cuối">⌫</button>
+      </div>
+    </div>
+    <noscript>Bật JavaScript để mở món quà nhé.</noscript>
+  </div>
+  <dialog class="wrong-code" aria-labelledby="wrong-title">
+    <h2 id="wrong-title">Sai mật mã rồi 😏</h2>
+    <img src="./assets/wrong-code-meme.png" alt="Meme chú ếch với dòng chữ Phiếu bé ngu">
+    <p>Thử lại nhé, không giới hạn lượt đâu!</p>
+    <button class="gift-button retry-code" type="button">Thử lại</button>
+  </dialog>
+  <main class="birthday-book" aria-label="Món quà sinh nhật" tabindex="0" hidden inert>
     <!-- Replace each page-content independently with your PPT/PDF design. -->
     <section class="birthday-page page-1" id="page-1" aria-labelledby="title-1">
       <div class="page-content reveal">
