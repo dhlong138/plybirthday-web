@@ -106,404 +106,404 @@
 </g>
 </g>
 <use data-text="“" xlink:href="#font_7_522" transform="matrix(.31408913,11.397891,11.397891,-.31408913,229.29402,55.61545)" fill="#4b6581" class="letter" style="animation-delay:0.000s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(.31408913,11.397891,11.397891,-.31408913,229.42447,60.349306)" fill="#4b6581" class="letter" style="animation-delay:0.028s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,229.58589,66.207)" fill="#4b6581" class="letter" style="animation-delay:0.056s" />
-<use data-text="ẳ" xlink:href="#font_7_813" transform="matrix(.31408913,11.397891,11.397891,-.31408913,229.79222,73.69461)" fill="#4b6581" class="letter" style="animation-delay:0.085s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,229.98186,80.575878)" fill="#4b6581" class="letter" style="animation-delay:0.113s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(.31408913,11.397891,11.397891,-.31408913,230.18819,88.063488)" fill="#4b6581" class="letter" style="animation-delay:0.141s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,230.38686,95.27296)" fill="#4b6581" class="letter" style="animation-delay:0.169s" />
-<use data-text="q" xlink:href="#font_7_84" transform="matrix(.31408913,11.397891,11.397891,-.31408913,230.46842,98.2324)" fill="#4b6581" class="letter" style="animation-delay:0.197s" />
-<use data-text="u" xlink:href="#font_7_88" transform="matrix(.31408913,11.397891,11.397891,-.31408913,230.66709,105.441867)" fill="#4b6581" class="letter" style="animation-delay:0.226s" />
-<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,230.87342,112.929477)" fill="#4b6581" class="letter" style="animation-delay:0.254s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,231.06304,119.81074)" fill="#4b6581" class="letter" style="animation-delay:0.282s" />
-<use data-text="l" xlink:href="#font_7_79" transform="matrix(.31408913,11.397891,11.397891,-.31408913,231.14459,122.77018)" fill="#4b6581" class="letter" style="animation-delay:0.310s" />
-<use data-text="à" xlink:href="#font_7_162" transform="matrix(.31408913,11.397891,11.397891,-.31408913,231.2404,126.24698)" fill="#4b6581" class="letter" style="animation-delay:0.338s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,231.43003,133.12825)" fill="#4b6581" class="letter" style="animation-delay:0.367s" />
-<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,231.51158,136.08769)" fill="#4b6581" class="letter" style="animation-delay:0.395s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,231.7012,142.96895)" fill="#4b6581" class="letter" style="animation-delay:0.423s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,231.90753,150.45658)" fill="#4b6581" class="letter" style="animation-delay:0.451s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,232.11388,157.94419)" fill="#4b6581" class="letter" style="animation-delay:0.479s" />
-<use data-text="đ" xlink:href="#font_7_211" transform="matrix(.31408913,11.397891,11.397891,-.31408913,232.19542,160.90363)" fill="#4b6581" class="letter" style="animation-delay:0.508s" />
-<use data-text="ã" xlink:href="#font_7_165" transform="matrix(.31408913,11.397891,11.397891,-.31408913,232.39916,168.29666)" fill="#4b6581" class="letter" style="animation-delay:0.536s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,232.58878,175.17794)" fill="#4b6581" class="letter" style="animation-delay:0.564s" />
-<use data-text="đ" xlink:href="#font_7_211" transform="matrix(.31408913,11.397891,11.397891,-.31408913,232.67034,178.13738)" fill="#4b6581" class="letter" style="animation-delay:0.592s" />
-<use data-text="i" xlink:href="#font_7_76" transform="matrix(.31408913,11.397891,11.397891,-.31408913,232.87406,185.53043)" fill="#4b6581" class="letter" style="animation-delay:0.620s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,232.96987,189.00722)" fill="#4b6581" class="letter" style="animation-delay:0.648s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,233.05142,191.96666)" fill="#4b6581" class="letter" style="animation-delay:0.677s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(.31408913,11.397891,11.397891,-.31408913,233.25775,199.45429)" fill="#4b6581" class="letter" style="animation-delay:0.705s" />
-<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,233.45642,206.66374)" fill="#4b6581" class="letter" style="animation-delay:0.733s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,233.64606,213.545)" fill="#4b6581" class="letter" style="animation-delay:0.761s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(.31408913,11.397891,11.397891,-.31408913,233.85239,221.0326)" fill="#4b6581" class="letter" style="animation-delay:0.789s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,234.05106,228.24207)" fill="#4b6581" class="letter" style="animation-delay:0.818s" />
-<use data-text="q" xlink:href="#font_7_84" transform="matrix(.31408913,11.397891,11.397891,-.31408913,234.13262,231.2015)" fill="#4b6581" class="letter" style="animation-delay:0.846s" />
-<use data-text="u" xlink:href="#font_7_88" transform="matrix(.31408913,11.397891,11.397891,-.31408913,234.33129,238.41098)" fill="#4b6581" class="letter" style="animation-delay:0.874s" />
-<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,234.53762,245.8986)" fill="#4b6581" class="letter" style="animation-delay:0.902s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,234.72724,252.77985)" fill="#4b6581" class="letter" style="animation-delay:0.930s" />
-<use data-text="đ" xlink:href="#font_7_211" transform="matrix(.31408913,11.397891,11.397891,-.31408913,234.80879,255.73932)" fill="#4b6581" class="letter" style="animation-delay:0.959s" />
-<use data-text="ú" xlink:href="#font_7_188" transform="matrix(.31408913,11.397891,11.397891,-.31408913,235.01251,263.13236)" fill="#4b6581" class="letter" style="animation-delay:0.987s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,235.21886,270.61997)" fill="#4b6581" class="letter" style="animation-delay:1.015s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(.31408913,11.397891,11.397891,-.31408913,235.42519,278.10758)" fill="#4b6581" class="letter" style="animation-delay:1.043s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,235.62386,285.31706)" fill="#4b6581" class="letter" style="animation-delay:1.071s" />
-<use data-text="m" xlink:href="#font_7_80" transform="matrix(.31408913,11.397891,11.397891,-.31408913,235.70542,288.2765)" fill="#4b6581" class="letter" style="animation-delay:1.100s" />
-<use data-text="ù" xlink:href="#font_7_187" transform="matrix(.31408913,11.397891,11.397891,-.31408913,236.01369,299.4634)" fill="#4b6581" class="letter" style="animation-delay:1.128s" />
-<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,236.22002,306.95103)" fill="#4b6581" class="letter" style="animation-delay:1.156s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,236.40964,313.83229)" fill="#4b6581" class="letter" style="animation-delay:1.184s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,236.4912,316.79173)" fill="#4b6581" class="letter" style="animation-delay:1.212s" />
-<use data-text="o" xlink:href="#font_7_82" transform="matrix(.31408913,11.397891,11.397891,-.31408913,236.69753,324.27937)" fill="#4b6581" class="letter" style="animation-delay:1.241s" />
-<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,236.8919,331.33305)" fill="#4b6581" class="letter" style="animation-delay:1.269s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,237.08153,338.2143)" fill="#4b6581" class="letter" style="animation-delay:1.297s" />
-<use data-text="đ" xlink:href="#font_7_211" transform="matrix(.31408913,11.397891,11.397891,-.31408913,237.16309,341.17375)" fill="#4b6581" class="letter" style="animation-delay:1.325s" />
-<use data-text="ẹ" xlink:href="#font_7_819" transform="matrix(.31408913,11.397891,11.397891,-.31408913,237.36682,348.5668)" fill="#4b6581" class="letter" style="animation-delay:1.353s" />
-<use data-text="p" xlink:href="#font_7_83" transform="matrix(.31408913,11.397891,11.397891,-.31408913,237.5523,355.29786)" fill="#4b6581" class="letter" style="animation-delay:1.382s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,237.75098,362.50733)" fill="#4b6581" class="letter" style="animation-delay:1.410s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,237.83252,365.46678)" fill="#4b6581" class="letter" style="animation-delay:1.438s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,238.03887,372.95439)" fill="#4b6581" class="letter" style="animation-delay:1.466s" />
-<use data-text="ấ" xlink:href="#font_7_799" transform="matrix(.31408913,11.397891,11.397891,-.31408913,238.2452,380.442)" fill="#4b6581" class="letter" style="animation-delay:1.494s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(.31408913,11.397891,11.397891,-.31408913,238.43482,387.32325)" fill="#4b6581" class="letter" style="animation-delay:1.523s" />
-<use data-text="”" xlink:href="#font_7_523" transform="matrix(.31408913,11.397891,11.397891,-.31408913,238.57416,392.3799)" fill="#4b6581" class="letter" style="animation-delay:1.551s" />
-<use data-text="“" xlink:href="#font_7_522" transform="matrix(.31408913,11.397891,11.397891,-.31408913,212.03241,.7129425)" fill="#4b6581" class="letter" style="animation-delay:1.579s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(.31408913,11.397891,11.397891,-.31408913,212.17206,5.7807147)" fill="#4b6581" class="letter" style="animation-delay:1.607s" />
-<use data-text="ì" xlink:href="#font_7_174" transform="matrix(.31408913,11.397891,11.397891,-.31408913,212.30834,10.726103)" fill="#4b6581" class="letter" style="animation-delay:1.635s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,212.40415,14.202897)" fill="#4b6581" class="letter" style="animation-delay:1.664s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,212.61048,21.690508)" fill="#4b6581" class="letter" style="animation-delay:1.692s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,212.8168,29.178118)" fill="#4b6581" class="letter" style="animation-delay:1.720s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(.31408913,11.397891,11.397891,-.31408913,212.89836,32.137559)" fill="#4b6581" class="letter" style="animation-delay:1.748s" />
-<use data-text="ờ" xlink:href="#font_7_855" transform="matrix(.31408913,11.397891,11.397891,-.31408913,213.05979,37.99526)" fill="#4b6581" class="letter" style="animation-delay:1.776s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,213.27301,45.733205)" fill="#4b6581" class="letter" style="animation-delay:1.805s" />
-<use data-text="l" xlink:href="#font_7_79" transform="matrix(.31408913,11.397891,11.397891,-.31408913,213.35457,48.692647)" fill="#4b6581" class="letter" style="animation-delay:1.833s" />
-<use data-text="ọ" xlink:href="#font_7_839" transform="matrix(.31408913,11.397891,11.397891,-.31408913,213.45038,52.169439)" fill="#4b6581" class="letter" style="animation-delay:1.861s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(.31408913,11.397891,11.397891,-.31408913,213.64476,59.223146)" fill="#4b6581" class="letter" style="animation-delay:1.889s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,213.78104,64.16853)" fill="#4b6581" class="letter" style="animation-delay:1.917s" />
-<use data-text="v" xlink:href="#font_7_89" transform="matrix(.31408913,11.397891,11.397891,-.31408913,213.86258,67.12798)" fill="#4b6581" class="letter" style="animation-delay:1.945s" />
-<use data-text="à" xlink:href="#font_7_162" transform="matrix(.31408913,11.397891,11.397891,-.31408913,214.04117,73.60872)" fill="#4b6581" class="letter" style="animation-delay:1.974s" />
-<use data-text="o" xlink:href="#font_7_82" transform="matrix(.31408913,11.397891,11.397891,-.31408913,214.2308,80.48998)" fill="#4b6581" class="letter" style="animation-delay:2.002s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,214.42517,87.54369)" fill="#4b6581" class="letter" style="animation-delay:2.030s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,214.50673,90.503139)" fill="#4b6581" class="letter" style="animation-delay:2.058s" />
-<use data-text="u" xlink:href="#font_7_88" transform="matrix(.31408913,11.397891,11.397891,-.31408913,214.71306,97.990749)" fill="#4b6581" class="letter" style="animation-delay:2.086s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,214.9194,105.478359)" fill="#4b6581" class="letter" style="animation-delay:2.115s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(.31408913,11.397891,11.397891,-.31408913,215.00095,108.4378)" fill="#4b6581" class="letter" style="animation-delay:2.143s" />
-<use data-text="ư" xlink:href="#font_7_607" transform="matrix(.31408913,11.397891,11.397891,-.31408913,215.16237,114.295497)" fill="#4b6581" class="letter" style="animation-delay:2.171s" />
-<use data-text="ờ" xlink:href="#font_7_855" transform="matrix(.31408913,11.397891,11.397891,-.31408913,215.4009,122.95131)" fill="#4b6581" class="letter" style="animation-delay:2.199s" />
-<use data-text="i" xlink:href="#font_7_76" transform="matrix(.31408913,11.397891,11.397891,-.31408913,215.61414,130.68926)" fill="#4b6581" class="letter" style="animation-delay:2.227s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,215.70995,134.16606)" fill="#4b6581" class="letter" style="animation-delay:2.256s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,215.79149,137.1255)" fill="#4b6581" class="letter" style="animation-delay:2.284s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(.31408913,11.397891,11.397891,-.31408913,215.99784,144.61312)" fill="#4b6581" class="letter" style="animation-delay:2.312s" />
-<use data-text="ọ" xlink:href="#font_7_839" transform="matrix(.31408913,11.397891,11.397891,-.31408913,216.1965,151.82257)" fill="#4b6581" class="letter" style="animation-delay:2.340s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(.31408913,11.397891,11.397891,-.31408913,216.39087,158.87628)" fill="#4b6581" class="letter" style="animation-delay:2.368s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,216.52716,163.82167)" fill="#4b6581" class="letter" style="animation-delay:2.397s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,216.6087,166.78112)" fill="#4b6581" class="letter" style="animation-delay:2.425s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(.31408913,11.397891,11.397891,-.31408913,216.81504,174.26873)" fill="#4b6581" class="letter" style="animation-delay:2.453s" />
-<use data-text="à" xlink:href="#font_7_162" transform="matrix(.31408913,11.397891,11.397891,-.31408913,217.0137,181.4782)" fill="#4b6581" class="letter" style="animation-delay:2.481s" />
-<use data-text="o" xlink:href="#font_7_82" transform="matrix(.31408913,11.397891,11.397891,-.31408913,217.20334,188.35945)" fill="#4b6581" class="letter" style="animation-delay:2.509s" />
-<use data-text="," xlink:href="#font_7_15" transform="matrix(.31408913,11.397891,11.397891,-.31408913,217.3977,195.41318)" fill="#4b6581" class="letter" style="animation-delay:2.538s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,217.48725,198.66188)" fill="#4b6581" class="letter" style="animation-delay:2.566s" />
-<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,217.56879,201.6213)" fill="#4b6581" class="letter" style="animation-delay:2.594s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,217.75843,208.50258)" fill="#4b6581" class="letter" style="animation-delay:2.622s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,217.96475,215.9902)" fill="#4b6581" class="letter" style="animation-delay:2.650s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,218.17108,223.4778)" fill="#4b6581" class="letter" style="animation-delay:2.679s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(.31408913,11.397891,11.397891,-.31408913,218.25264,226.43724)" fill="#4b6581" class="letter" style="animation-delay:2.707s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,218.38892,231.38263)" fill="#4b6581" class="letter" style="animation-delay:2.735s" />
-<use data-text="ề" xlink:href="#font_7_827" transform="matrix(.31408913,11.397891,11.397891,-.31408913,218.59525,238.87024)" fill="#4b6581" class="letter" style="animation-delay:2.763s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,218.78073,245.60132)" fill="#4b6581" class="letter" style="animation-delay:2.791s" />
-<use data-text="k" xlink:href="#font_7_78" transform="matrix(.31408913,11.397891,11.397891,-.31408913,218.86229,248.56073)" fill="#4b6581" class="letter" style="animation-delay:2.820s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,219.05698,255.62558)" fill="#4b6581" class="letter" style="animation-delay:2.848s" />
-<use data-text="ô" xlink:href="#font_7_182" transform="matrix(.31408913,11.397891,11.397891,-.31408913,219.2633,263.1132)" fill="#4b6581" class="letter" style="animation-delay:2.876s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,219.45769,270.1669)" fill="#4b6581" class="letter" style="animation-delay:2.904s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(.31408913,11.397891,11.397891,-.31408913,219.66402,277.6545)" fill="#4b6581" class="letter" style="animation-delay:2.932s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,219.86269,284.86399)" fill="#4b6581" class="letter" style="animation-delay:2.961s" />
-<use data-text="b" xlink:href="#font_7_69" transform="matrix(.31408913,11.397891,11.397891,-.31408913,219.94425,287.82344)" fill="#4b6581" class="letter" style="animation-delay:2.989s" />
-<use data-text="i" xlink:href="#font_7_76" transform="matrix(.31408913,11.397891,11.397891,-.31408913,220.14292,295.0329)" fill="#4b6581" class="letter" style="animation-delay:3.017s" />
-<use data-text="ế" xlink:href="#font_7_825" transform="matrix(.31408913,11.397891,11.397891,-.31408913,220.23873,298.50968)" fill="#4b6581" class="letter" style="animation-delay:3.045s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(.31408913,11.397891,11.397891,-.31408913,220.42421,305.24076)" fill="#4b6581" class="letter" style="animation-delay:3.073s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,220.56049,310.18614)" fill="#4b6581" class="letter" style="animation-delay:3.102s" />
-<use data-text="đ" xlink:href="#font_7_211" transform="matrix(.31408913,11.397891,11.397891,-.31408913,220.64205,313.1456)" fill="#4b6581" class="letter" style="animation-delay:3.130s" />
-<use data-text="ư" xlink:href="#font_7_607" transform="matrix(.31408913,11.397891,11.397891,-.31408913,220.84577,320.53865)" fill="#4b6581" class="letter" style="animation-delay:3.158s" />
-<use data-text="ờ" xlink:href="#font_7_855" transform="matrix(.31408913,11.397891,11.397891,-.31408913,221.08429,329.19444)" fill="#4b6581" class="letter" style="animation-delay:3.186s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,221.29753,336.93238)" fill="#4b6581" class="letter" style="animation-delay:3.214s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(.31408913,11.397891,11.397891,-.31408913,221.50386,344.42)" fill="#4b6581" class="letter" style="animation-delay:3.242s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,221.70253,351.62947)" fill="#4b6581" class="letter" style="animation-delay:3.271s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(.31408913,11.397891,11.397891,-.31408913,221.78409,354.5889)" fill="#4b6581" class="letter" style="animation-delay:3.299s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,221.92037,359.5343)" fill="#4b6581" class="letter" style="animation-delay:3.327s" />
-<use data-text="o" xlink:href="#font_7_82" transform="matrix(.31408913,11.397891,11.397891,-.31408913,222.1267,367.02189)" fill="#4b6581" class="letter" style="animation-delay:3.355s" />
-<use data-text="á" xlink:href="#font_7_163" transform="matrix(.31408913,11.397891,11.397891,-.31408913,222.32108,374.07563)" fill="#4b6581" class="letter" style="animation-delay:3.383s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(.31408913,11.397891,11.397891,-.31408913,222.5107,380.95689)" fill="#4b6581" class="letter" style="animation-delay:3.412s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,222.64698,385.90229)" fill="#4b6581" class="letter" style="animation-delay:3.440s" />
-<use data-text="r" xlink:href="#font_7_85" transform="matrix(.31408913,11.397891,11.397891,-.31408913,222.72853,388.8617)" fill="#4b6581" class="letter" style="animation-delay:3.468s" />
-<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,222.86803,393.92387)" fill="#4b6581" class="letter" style="animation-delay:3.496s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,223.05765,400.8051)" fill="#4b6581" class="letter" style="animation-delay:3.524s" />
-<use data-text="l" xlink:href="#font_7_79" transform="matrix(.31408913,11.397891,11.397891,-.31408913,223.1392,403.7646)" fill="#4b6581" class="letter" style="animation-delay:3.553s" />
-<use data-text="à" xlink:href="#font_7_162" transform="matrix(.31408913,11.397891,11.397891,-.31408913,223.23502,407.2414)" fill="#4b6581" class="letter" style="animation-delay:3.581s" />
-<use data-text="m" xlink:href="#font_7_80" transform="matrix(.31408913,11.397891,11.397891,-.31408913,223.42464,414.12266)" fill="#4b6581" class="letter" style="animation-delay:3.609s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,223.73291,425.30958)" fill="#4b6581" class="letter" style="animation-delay:3.637s" />
-<use data-text="s" xlink:href="#font_7_86" transform="matrix(.31408913,11.397891,11.397891,-.31408913,223.81447,428.26899)" fill="#4b6581" class="letter" style="animation-delay:3.665s" />
-<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,223.97052,433.93196)" fill="#4b6581" class="letter" style="animation-delay:3.694s" />
-<use data-text="o" xlink:href="#font_7_82" transform="matrix(.31408913,11.397891,11.397891,-.31408913,224.16014,440.81327)" fill="#4b6581" class="letter" style="animation-delay:3.722s" />
-<use data-text="”" xlink:href="#font_7_523" transform="matrix(.31408913,11.397891,11.397891,-.31408913,224.353,447.81129)" fill="#4b6581" class="letter" style="animation-delay:3.750s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,224.49285,452.88645)" fill="#4b6581" class="letter" style="animation-delay:3.778s" />
-<use data-text="T" xlink:href="#font_7_55" transform="matrix(12.849048,0,0,-12.849048,42.192274,36.95855)" fill="#4b6581" class="letter" style="animation-delay:3.806s" />
-<use data-text="u" xlink:href="#font_7_88" transform="matrix(12.849048,0,0,-12.849048,49.312967,36.95855)" fill="#4b6581" class="letter" style="animation-delay:3.835s" />
-<use data-text="ổ" xlink:href="#font_7_847" transform="matrix(12.849048,0,0,-12.849048,57.750314,36.95855)" fill="#4b6581" class="letter" style="animation-delay:3.863s" />
-<use data-text="i" xlink:href="#font_7_76" transform="matrix(12.849048,0,0,-12.849048,65.698719,36.95855)" fill="#4b6581" class="letter" style="animation-delay:3.891s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,69.6165,36.95855)" fill="#4b6581" class="letter" style="animation-delay:3.919s" />
-<use data-text="m" xlink:href="#font_7_80" transform="matrix(12.849048,0,0,-12.849048,72.951328,36.95855)" fill="#4b6581" class="letter" style="animation-delay:3.947s" />
-<use data-text="ớ" xlink:href="#font_7_853" transform="matrix(12.849048,0,0,-12.849048,85.55719,36.95855)" fill="#4b6581" class="letter" style="animation-delay:3.976s" />
-<use data-text="i" xlink:href="#font_7_76" transform="matrix(12.849048,0,0,-12.849048,94.27662,36.95855)" fill="#4b6581" class="letter" style="animation-delay:4.004s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,98.19441,36.95855)" fill="#4b6581" class="letter" style="animation-delay:4.032s" />
-<use data-text="s" xlink:href="#font_7_86" transform="matrix(12.849048,0,0,-12.849048,101.52923,36.95855)" fill="#4b6581" class="letter" style="animation-delay:4.060s" />
-<use data-text="a" xlink:href="#font_7_68" transform="matrix(12.849048,0,0,-12.849048,107.91052,36.95855)" fill="#4b6581" class="letter" style="animation-delay:4.088s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,115.6646,36.95855)" fill="#4b6581" class="letter" style="animation-delay:4.117s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,124.101947,36.95855)" fill="#4b6581" class="letter" style="animation-delay:4.145s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,132.22588,36.95855)" fill="#4b6581" class="letter" style="animation-delay:4.173s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(12.849048,0,0,-12.849048,135.56069,36.95855)" fill="#4b6581" class="letter" style="animation-delay:4.201s" />
-<use data-text="r" xlink:href="#font_7_85" transform="matrix(12.849048,0,0,-12.849048,141.13335,36.95855)" fill="#4b6581" class="letter" style="animation-delay:4.229s" />
-<use data-text="a" xlink:href="#font_7_68" transform="matrix(12.849048,0,0,-12.849048,146.83753,36.95855)" fill="#4b6581" class="letter" style="animation-delay:4.258s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,154.59162,36.95855)" fill="#4b6581" class="letter" style="animation-delay:4.286s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,163.02896,36.95855)" fill="#4b6581" class="letter" style="animation-delay:4.314s" />
-<use data-text="N" xlink:href="#font_7_49" transform="matrix(12.849048,0,0,-12.849048,42.192274,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.342s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,52.629259,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.370s" />
-<use data-text="à" xlink:href="#font_7_162" transform="matrix(12.849048,0,0,-12.849048,60.753179,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.398s" />
-<use data-text="y" xlink:href="#font_7_92" transform="matrix(12.849048,0,0,-12.849048,68.50726,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.427s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,75.81001,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.455s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(12.849048,0,0,-12.849048,79.14484,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.483s" />
-<use data-text="à" xlink:href="#font_7_162" transform="matrix(12.849048,0,0,-12.849048,85.74552,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.511s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,93.4996,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.539s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,101.93695,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.568s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,110.06087,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.596s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,113.39569,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.624s" />
-<use data-text="i" xlink:href="#font_7_76" transform="matrix(12.849048,0,0,-12.849048,121.51962,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.652s" />
-<use data-text="ỏ" xlink:href="#font_7_841" transform="matrix(12.849048,0,0,-12.849048,125.43741,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.680s" />
-<use data-text="i" xlink:href="#font_7_76" transform="matrix(12.849048,0,0,-12.849048,133.3858,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.709s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,137.30359,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.737s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,140.63842,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.765s" />
-<use data-text="i" xlink:href="#font_7_76" transform="matrix(12.849048,0,0,-12.849048,148.76235,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.793s" />
-<use data-text="a" xlink:href="#font_7_68" transform="matrix(12.849048,0,0,-12.849048,152.68013,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.821s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,160.4342,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.850s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,168.87155,54.95021)" fill="#4b6581" class="letter" style="animation-delay:4.878s" />
-<use data-text="S" xlink:href="#font_7_54" transform="matrix(12.849048,0,0,-12.849048,42.192274,72.94188)" fill="#4b6581" class="letter" style="animation-delay:4.906s" />
-<use data-text="ự" xlink:href="#font_7_875" transform="matrix(12.849048,0,0,-12.849048,49.263093,72.94188)" fill="#4b6581" class="letter" style="animation-delay:4.934s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,59.016817,72.94188)" fill="#4b6581" class="letter" style="animation-delay:4.962s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,62.351636,72.94188)" fill="#4b6581" class="letter" style="animation-delay:4.991s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,70.78898,72.94188)" fill="#4b6581" class="letter" style="animation-delay:5.019s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(12.849048,0,0,-12.849048,78.9129,72.94188)" fill="#4b6581" class="letter" style="animation-delay:5.047s" />
-<use data-text="i" xlink:href="#font_7_76" transform="matrix(12.849048,0,0,-12.849048,87.35025,72.94188)" fill="#4b6581" class="letter" style="animation-delay:5.075s" />
-<use data-text="ệ" xlink:href="#font_7_833" transform="matrix(12.849048,0,0,-12.849048,91.268039,72.94188)" fill="#4b6581" class="letter" style="animation-delay:5.103s" />
-<use data-text="p" xlink:href="#font_7_83" transform="matrix(12.849048,0,0,-12.849048,98.852878,72.94188)" fill="#4b6581" class="letter" style="animation-delay:5.132s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,106.97679,72.94188)" fill="#4b6581" class="letter" style="animation-delay:5.160s" />
-<use data-text="v" xlink:href="#font_7_89" transform="matrix(12.849048,0,0,-12.849048,110.311618,72.94188)" fill="#4b6581" class="letter" style="animation-delay:5.188s" />
-<use data-text="ữ" xlink:href="#font_7_873" transform="matrix(12.849048,0,0,-12.849048,117.614368,72.94188)" fill="#4b6581" class="letter" style="animation-delay:5.216s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,127.36809,72.94188)" fill="#4b6581" class="letter" style="animation-delay:5.244s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,135.80544,72.94188)" fill="#4b6581" class="letter" style="animation-delay:5.273s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,143.92935,72.94188)" fill="#4b6581" class="letter" style="animation-delay:5.301s" />
-<use data-text="v" xlink:href="#font_7_89" transform="matrix(12.849048,0,0,-12.849048,147.26418,72.94188)" fill="#4b6581" class="letter" style="animation-delay:5.329s" />
-<use data-text="à" xlink:href="#font_7_162" transform="matrix(12.849048,0,0,-12.849048,154.56693,72.94188)" fill="#4b6581" class="letter" style="animation-delay:5.357s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,162.32102,72.94188)" fill="#4b6581" class="letter" style="animation-delay:5.385s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,170.75836,72.94188)" fill="#4b6581" class="letter" style="animation-delay:5.414s" />
-<use data-text="D" xlink:href="#font_7_39" transform="matrix(12.849048,0,0,-12.849048,42.192274,90.93355)" fill="#4b6581" class="letter" style="animation-delay:5.442s" />
-<use data-text="ị" xlink:href="#font_7_837" transform="matrix(12.849048,0,0,-12.849048,51.695257,90.93355)" fill="#4b6581" class="letter" style="animation-delay:5.470s" />
-<use data-text="u" xlink:href="#font_7_88" transform="matrix(12.849048,0,0,-12.849048,55.61304,90.93355)" fill="#4b6581" class="letter" style="animation-delay:5.498s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,64.050388,90.93355)" fill="#4b6581" class="letter" style="animation-delay:5.526s" />
-<use data-text="d" xlink:href="#font_7_71" transform="matrix(12.849048,0,0,-12.849048,67.38521,90.93355)" fill="#4b6581" class="letter" style="animation-delay:5.555s" />
-<use data-text="à" xlink:href="#font_7_162" transform="matrix(12.849048,0,0,-12.849048,75.509128,90.93355)" fill="#4b6581" class="letter" style="animation-delay:5.583s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,83.263217,90.93355)" fill="#4b6581" class="letter" style="animation-delay:5.611s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,91.70056,90.93355)" fill="#4b6581" class="letter" style="animation-delay:5.639s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,99.82448,90.93355)" fill="#4b6581" class="letter" style="animation-delay:5.667s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(12.849048,0,0,-12.849048,103.1593,90.93355)" fill="#4b6581" class="letter" style="animation-delay:5.695s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(12.849048,0,0,-12.849048,108.731967,90.93355)" fill="#4b6581" class="letter" style="animation-delay:5.724s" />
-<use data-text="u" xlink:href="#font_7_88" transform="matrix(12.849048,0,0,-12.849048,117.16931,90.93355)" fill="#4b6581" class="letter" style="animation-delay:5.752s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,125.60664,90.93355)" fill="#4b6581" class="letter" style="animation-delay:5.780s" />
-<use data-text="s" xlink:href="#font_7_86" transform="matrix(12.849048,0,0,-12.849048,128.94147,90.93355)" fill="#4b6581" class="letter" style="animation-delay:5.808s" />
-<use data-text="a" xlink:href="#font_7_68" transform="matrix(12.849048,0,0,-12.849048,135.32277,90.93355)" fill="#4b6581" class="letter" style="animation-delay:5.836s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,143.07685,90.93355)" fill="#4b6581" class="letter" style="animation-delay:5.865s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,151.51419,90.93355)" fill="#4b6581" class="letter" style="animation-delay:5.893s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,197.54802,276.14219)" fill="#4b6581" class="letter" style="animation-delay:5.921s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,190.86904,276.14219)" fill="#4b6581" class="letter" style="animation-delay:5.949s" />
-<use data-text="ú" xlink:href="#font_7_188" transform="matrix(-12.991481,0,-0,12.991481,182.3316,276.14219)" fill="#4b6581" class="letter" style="animation-delay:5.977s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,173.79419,276.14219)" fill="#4b6581" class="letter" style="animation-delay:6.006s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,167.1152,276.14219)" fill="#4b6581" class="letter" style="animation-delay:6.034s" />
-<use data-text="m" xlink:href="#font_7_80" transform="matrix(-12.991481,0,-0,12.991481,163.74083,276.14219)" fill="#4b6581" class="letter" style="animation-delay:6.062s" />
-<use data-text="ừ" xlink:href="#font_7_869" transform="matrix(-12.991481,0,-0,12.991481,150.98543,276.14219)" fill="#4b6581" class="letter" style="animation-delay:6.090s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,141.11603,276.14219)" fill="#4b6581" class="letter" style="animation-delay:6.118s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(-12.991481,0,-0,12.991481,132.5786,276.14219)" fill="#4b6581" class="letter" style="animation-delay:6.147s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,124.358318,276.14219)" fill="#4b6581" class="letter" style="animation-delay:6.175s" />
-<use data-text="s" xlink:href="#font_7_86" transform="matrix(-12.991481,0,-0,12.991481,120.98394,276.14219)" fill="#4b6581" class="letter" style="animation-delay:6.203s" />
-<use data-text="i" xlink:href="#font_7_76" transform="matrix(-12.991481,0,-0,12.991481,114.526958,276.14219)" fill="#4b6581" class="letter" style="animation-delay:6.231s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,110.5627,276.14219)" fill="#4b6581" class="letter" style="animation-delay:6.259s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,102.02527,276.14219)" fill="#4b6581" class="letter" style="animation-delay:6.288s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,93.48785,276.14219)" fill="#4b6581" class="letter" style="animation-delay:6.316s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,90.11347,276.14219)" fill="#4b6581" class="letter" style="animation-delay:6.344s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,81.57605,276.14219)" fill="#4b6581" class="letter" style="animation-delay:6.372s" />
-<use data-text="ậ" xlink:href="#font_7_807" transform="matrix(-12.991481,0,-0,12.991481,73.038639,276.14219)" fill="#4b6581" class="letter" style="animation-delay:6.400s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(-12.991481,0,-0,12.991481,65.192569,276.14219)" fill="#4b6581" class="letter" style="animation-delay:6.429s" />
-<use data-text="p" xlink:href="#font_7_83" transform="matrix(-12.991481,0,-0,12.991481,197.77057,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.457s" />
-<use data-text="l" xlink:href="#font_7_79" transform="matrix(-12.991481,0,-0,12.991481,189.5503,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.485s" />
-<use data-text="y" xlink:href="#font_7_92" transform="matrix(-12.991481,0,-0,12.991481,185.58603,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.513s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,178.19664,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.541s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(-12.991481,0,-0,12.991481,174.82227,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.570s" />
-<use data-text="u" xlink:href="#font_7_88" transform="matrix(-12.991481,0,-0,12.991481,169.1835,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.598s" />
-<use data-text="ổ" xlink:href="#font_7_847" transform="matrix(-12.991481,0,-0,12.991481,160.64609,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.626s" />
-<use data-text="i" xlink:href="#font_7_76" transform="matrix(-12.991481,0,-0,12.991481,152.6034,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.654s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,148.63915,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.682s" />
-<use data-text="1" xlink:href="#font_7_20" transform="matrix(-12.991481,0,-0,12.991481,145.26477,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.711s" />
-<use data-text="8" xlink:href="#font_7_27" transform="matrix(-12.991481,0,-0,12.991481,137.83733,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.739s" />
-<use data-text="(" xlink:href="#font_7_11" transform="matrix(-12.991481,0,-0,12.991481,130.40988,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.767s" />
-<use data-text="l" xlink:href="#font_7_79" transform="matrix(-12.991481,0,-0,12.991481,126.00798,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.795s" />
-<use data-text="ầ" xlink:href="#font_7_801" transform="matrix(-12.991481,0,-0,12.991481,122.04372,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.823s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,114.197658,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.852s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,105.66023,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.880s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(-12.991481,0,-0,12.991481,102.28586,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.908s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,96.647098,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.936s" />
-<use data-text="ứ" xlink:href="#font_7_867" transform="matrix(-12.991481,0,-0,12.991481,88.10967,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.964s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,78.240268,258.1505)" fill="#4b6581" class="letter" style="animation-delay:6.992s" />
-<use data-text="4" xlink:href="#font_7_23" transform="matrix(-12.991481,0,-0,12.991481,74.86589,258.1505)" fill="#4b6581" class="letter" style="animation-delay:7.021s" />
-<use data-text=")" xlink:href="#font_7_12" transform="matrix(-12.991481,0,-0,12.991481,67.438449,258.1505)" fill="#4b6581" class="letter" style="animation-delay:7.049s" />
-<use data-text="." xlink:href="#font_7_17" transform="matrix(-12.991481,0,-0,12.991481,63.036546,258.1505)" fill="#4b6581" class="letter" style="animation-delay:7.077s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,203.47496,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.105s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,196.79598,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.133s" />
-<use data-text="ú" xlink:href="#font_7_188" transform="matrix(-12.991481,0,-0,12.991481,188.25855,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.162s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,179.72113,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.190s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,173.04215,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.218s" />
-<use data-text="l" xlink:href="#font_7_79" transform="matrix(-12.991481,0,-0,12.991481,169.66777,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.246s" />
-<use data-text="y" xlink:href="#font_7_92" transform="matrix(-12.991481,0,-0,12.991481,165.7035,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.274s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,158.31414,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.303s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,154.93976,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.331s" />
-<use data-text="à" xlink:href="#font_7_162" transform="matrix(-12.991481,0,-0,12.991481,148.26078,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.359s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,140.4147,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.387s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(-12.991481,0,-0,12.991481,131.87729,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.415s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,123.657,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.444s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,120.28262,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.472s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(-12.991481,0,-0,12.991481,111.7452,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.500s" />
-<use data-text="à" xlink:href="#font_7_162" transform="matrix(-12.991481,0,-0,12.991481,103.52492,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.528s" />
-<use data-text="y" xlink:href="#font_7_92" transform="matrix(-12.991481,0,-0,12.991481,95.678859,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.556s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,88.28948,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.585s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,84.9151,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.613s" />
-<use data-text="à" xlink:href="#font_7_162" transform="matrix(-12.991481,0,-0,12.991481,78.236118,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.641s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,70.39006,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.669s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(-12.991481,0,-0,12.991481,61.85263,240.15885)" fill="#4b6581" class="letter" style="animation-delay:7.697s" />
-<use data-text="x" xlink:href="#font_7_91" transform="matrix(-12.991481,0,-0,12.991481,199.551,222.16718)" fill="#4b6581" class="letter" style="animation-delay:7.726s" />
-<use data-text="i" xlink:href="#font_7_76" transform="matrix(-12.991481,0,-0,12.991481,192.0411,222.16718)" fill="#4b6581" class="letter" style="animation-delay:7.754s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,188.07685,222.16718)" fill="#4b6581" class="letter" style="animation-delay:7.782s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,179.53943,222.16718)" fill="#4b6581" class="letter" style="animation-delay:7.810s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,171.002,222.16718)" fill="#4b6581" class="letter" style="animation-delay:7.838s" />
-<use data-text="đ" xlink:href="#font_7_211" transform="matrix(-12.991481,0,-0,12.991481,167.62763,222.16718)" fill="#4b6581" class="letter" style="animation-delay:7.867s" />
-<use data-text="ẹ" xlink:href="#font_7_819" transform="matrix(-12.991481,0,-0,12.991481,159.19803,222.16718)" fill="#4b6581" class="letter" style="animation-delay:7.895s" />
-<use data-text="p" xlink:href="#font_7_83" transform="matrix(-12.991481,0,-0,12.991481,151.52323,222.16718)" fill="#4b6581" class="letter" style="animation-delay:7.923s" />
-<use data-text="," xlink:href="#font_7_15" transform="matrix(-12.991481,0,-0,12.991481,143.30295,222.16718)" fill="#4b6581" class="letter" style="animation-delay:7.951s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,139.59874,222.16718)" fill="#4b6581" class="letter" style="animation-delay:7.979s" />
-<use data-text="r" xlink:href="#font_7_85" transform="matrix(-12.991481,0,-0,12.991481,136.22437,222.16718)" fill="#4b6581" class="letter" style="animation-delay:8.008s" />
-<use data-text="ạ" xlink:href="#font_7_795" transform="matrix(-12.991481,0,-0,12.991481,130.45243,222.16718)" fill="#4b6581" class="letter" style="animation-delay:8.036s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,122.60636,222.16718)" fill="#4b6581" class="letter" style="animation-delay:8.064s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(-12.991481,0,-0,12.991481,114.06894,222.16718)" fill="#4b6581" class="letter" style="animation-delay:8.092s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,105.848659,222.16718)" fill="#4b6581" class="letter" style="animation-delay:8.120s" />
-<use data-text="r" xlink:href="#font_7_85" transform="matrix(-12.991481,0,-0,12.991481,102.47428,222.16718)" fill="#4b6581" class="letter" style="animation-delay:8.148s" />
-<use data-text="ỡ" xlink:href="#font_7_859" transform="matrix(-12.991481,0,-0,12.991481,96.70233,222.16718)" fill="#4b6581" class="letter" style="animation-delay:8.177s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,87.87948,222.16718)" fill="#4b6581" class="letter" style="animation-delay:8.205s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,84.505107,222.16718)" fill="#4b6581" class="letter" style="animation-delay:8.233s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,75.96768,222.16718)" fill="#4b6581" class="letter" style="animation-delay:8.261s" />
-<use data-text="ư" xlink:href="#font_7_607" transform="matrix(-12.991481,0,-0,12.991481,67.43025,222.16718)" fill="#4b6581" class="letter" style="animation-delay:8.289s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,204.34175,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.318s" />
-<use data-text="o" xlink:href="#font_7_82" transform="matrix(-12.991481,0,-0,12.991481,195.80432,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.346s" />
-<use data-text="a" xlink:href="#font_7_68" transform="matrix(-12.991481,0,-0,12.991481,187.76165,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.374s" />
-<use data-text="." xlink:href="#font_7_17" transform="matrix(-12.991481,0,-0,12.991481,179.91558,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.402s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,176.21138,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.430s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,172.837,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.459s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,166.15802,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.487s" />
-<use data-text="ú" xlink:href="#font_7_188" transform="matrix(-12.991481,0,-0,12.991481,157.62059,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.515s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,149.08318,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.543s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,142.40418,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.571s" />
-<use data-text="l" xlink:href="#font_7_79" transform="matrix(-12.991481,0,-0,12.991481,139.02982,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.600s" />
-<use data-text="y" xlink:href="#font_7_92" transform="matrix(-12.991481,0,-0,12.991481,135.06555,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.628s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,127.67617,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.656s" />
-<use data-text="l" xlink:href="#font_7_79" transform="matrix(-12.991481,0,-0,12.991481,124.301799,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.684s" />
-<use data-text="u" xlink:href="#font_7_88" transform="matrix(-12.991481,0,-0,12.991481,120.33753,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.712s" />
-<use data-text="ô" xlink:href="#font_7_182" transform="matrix(-12.991481,0,-0,12.991481,111.80011,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.741s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,103.75742,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.769s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,95.22,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.797s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(-12.991481,0,-0,12.991481,91.84563,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.825s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,86.20686,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.853s" />
-<use data-text="à" xlink:href="#font_7_162" transform="matrix(-12.991481,0,-0,12.991481,77.66943,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.882s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,69.82338,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.910s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,61.28595,204.17552)" fill="#4b6581" class="letter" style="animation-delay:8.938s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,199.1996,186.18386)" fill="#4b6581" class="letter" style="animation-delay:8.966s" />
-<use data-text="ô" xlink:href="#font_7_182" transform="matrix(-12.991481,0,-0,12.991481,192.52062,186.18386)" fill="#4b6581" class="letter" style="animation-delay:8.994s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,184.47794,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.023s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(-12.991481,0,-0,12.991481,175.9405,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.051s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,167.72022,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.079s" />
-<use data-text="v" xlink:href="#font_7_89" transform="matrix(-12.991481,0,-0,12.991481,164.34586,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.107s" />
-<use data-text="à" xlink:href="#font_7_162" transform="matrix(-12.991481,0,-0,12.991481,156.95647,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.135s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,149.11042,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.164s" />
-<use data-text="đ" xlink:href="#font_7_211" transform="matrix(-12.991481,0,-0,12.991481,145.73603,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.192s" />
-<use data-text="ạ" xlink:href="#font_7_795" transform="matrix(-12.991481,0,-0,12.991481,137.30643,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.220s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(-12.991481,0,-0,12.991481,129.46036,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.248s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,123.8216,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.276s" />
-<use data-text="đ" xlink:href="#font_7_211" transform="matrix(-12.991481,0,-0,12.991481,120.44723,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.305s" />
-<use data-text="ư" xlink:href="#font_7_607" transform="matrix(-12.991481,0,-0,12.991481,112.01763,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.333s" />
-<use data-text="ợ" xlink:href="#font_7_861" transform="matrix(-12.991481,0,-0,12.991481,102.14822,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.361s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,93.32536,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.389s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,86.64638,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.417s" />
-<use data-text="ư" xlink:href="#font_7_607" transform="matrix(-12.991481,0,-0,12.991481,83.272,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.445s" />
-<use data-text="ớ" xlink:href="#font_7_853" transform="matrix(-12.991481,0,-0,12.991481,73.40259,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.474s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,64.57973,186.18386)" fill="#4b6581" class="letter" style="animation-delay:9.502s" />
-<use data-text="m" xlink:href="#font_7_80" transform="matrix(-12.991481,0,-0,12.991481,171.14618,168.1922)" fill="#4b6581" class="letter" style="animation-delay:9.530s" />
-<use data-text="ơ" xlink:href="#font_7_605" transform="matrix(-12.991481,0,-0,12.991481,158.3908,168.1922)" fill="#4b6581" class="letter" style="animation-delay:9.558s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,149.56793,168.1922)" fill="#4b6581" class="letter" style="animation-delay:9.586s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,146.19356,168.1922)" fill="#4b6581" class="letter" style="animation-delay:9.615s" />
-<use data-text="ủ" xlink:href="#font_7_865" transform="matrix(-12.991481,0,-0,12.991481,139.51457,168.1922)" fill="#4b6581" class="letter" style="animation-delay:9.643s" />
-<use data-text="a" xlink:href="#font_7_68" transform="matrix(-12.991481,0,-0,12.991481,130.97714,168.1922)" fill="#4b6581" class="letter" style="animation-delay:9.671s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,123.13109,168.1922)" fill="#4b6581" class="letter" style="animation-delay:9.699s" />
-<use data-text="m" xlink:href="#font_7_80" transform="matrix(-12.991481,0,-0,12.991481,119.756717,168.1922)" fill="#4b6581" class="letter" style="animation-delay:9.727s" />
-<use data-text="ì" xlink:href="#font_7_174" transform="matrix(-12.991481,0,-0,12.991481,107.00132,168.1922)" fill="#4b6581" class="letter" style="animation-delay:9.756s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,103.037059,168.1922)" fill="#4b6581" class="letter" style="animation-delay:9.784s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,94.49963,168.1922)" fill="#4b6581" class="letter" style="animation-delay:9.812s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,291.0931)" fill="#4b6581" class="letter" style="animation-delay:9.840s" />
-<use data-text="ô" xlink:href="#font_7_182" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,285.45436)" fill="#4b6581" class="letter" style="animation-delay:9.868s" />
-<use data-text="i" xlink:href="#font_7_76" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,277.41166)" fill="#4b6581" class="letter" style="animation-delay:9.897s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,273.4474)" fill="#4b6581" class="letter" style="animation-delay:9.925s" />
-<use data-text="v" xlink:href="#font_7_89" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,270.07304)" fill="#4b6581" class="letter" style="animation-delay:9.953s" />
-<use data-text="i" xlink:href="#font_7_76" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,262.68367)" fill="#4b6581" class="letter" style="animation-delay:9.981s" />
-<use data-text="ế" xlink:href="#font_7_825" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,258.7194)" fill="#4b6581" class="letter" style="animation-delay:10.009s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,251.04459)" fill="#4b6581" class="letter" style="animation-delay:10.038s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,245.40583)" fill="#4b6581" class="letter" style="animation-delay:10.066s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,242.03145)" fill="#4b6581" class="letter" style="animation-delay:10.094s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,235.35245)" fill="#4b6581" class="letter" style="animation-delay:10.122s" />
-<use data-text="ữ" xlink:href="#font_7_873" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,226.81504)" fill="#4b6581" class="letter" style="animation-delay:10.150s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,216.94562)" fill="#4b6581" class="letter" style="animation-delay:10.179s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,213.57126)" fill="#4b6581" class="letter" style="animation-delay:10.207s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,205.03383)" fill="#4b6581" class="letter" style="animation-delay:10.235s" />
-<use data-text="a" xlink:href="#font_7_68" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,196.81354)" fill="#4b6581" class="letter" style="animation-delay:10.263s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,188.96749)" fill="#4b6581" class="letter" style="animation-delay:10.291s" />
-<use data-text="g" xlink:href="#font_7_74" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,180.43006)" fill="#4b6581" class="letter" style="animation-delay:10.320s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,172.20978)" fill="#4b6581" class="letter" style="animation-delay:10.348s" />
-<use data-text="d" xlink:href="#font_7_71" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,168.8354)" fill="#4b6581" class="letter" style="animation-delay:10.376s" />
-<use data-text="ọ" xlink:href="#font_7_839" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,160.61511)" fill="#4b6581" class="letter" style="animation-delay:10.404s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,152.57244)" fill="#4b6581" class="letter" style="animation-delay:10.432s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,145.89345)" fill="#4b6581" class="letter" style="animation-delay:10.461s" />
-<use data-text="v" xlink:href="#font_7_89" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,142.51908)" fill="#4b6581" class="letter" style="animation-delay:10.489s" />
-<use data-text="ì" xlink:href="#font_7_174" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,135.1297)" fill="#4b6581" class="letter" style="animation-delay:10.517s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,304.58686)" fill="#4b6581" class="letter" style="animation-delay:10.545s" />
-<use data-text="í" xlink:href="#font_7_175" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,298.9481)" fill="#4b6581" class="letter" style="animation-delay:10.573s" />
-<use data-text="n" xlink:href="#font_7_81" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,294.98384)" fill="#4b6581" class="letter" style="animation-delay:10.602s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,286.4464)" fill="#4b6581" class="letter" style="animation-delay:10.630s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,277.909)" fill="#4b6581" class="letter" style="animation-delay:10.658s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,274.5346)" fill="#4b6581" class="letter" style="animation-delay:10.686s" />
-<use data-text="á" xlink:href="#font_7_163" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,267.85563)" fill="#4b6581" class="letter" style="animation-delay:10.714s" />
-<use data-text="c" xlink:href="#font_7_70" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,260.00956)" fill="#4b6581" class="letter" style="animation-delay:10.742s" />
-<use data-text="h" xlink:href="#font_7_75" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,253.33058)" fill="#4b6581" class="letter" style="animation-delay:10.771s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,244.79315)" fill="#4b6581" class="letter" style="animation-delay:10.799s" />
-<use data-text="t" xlink:href="#font_7_87" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,241.4188)" fill="#4b6581" class="letter" style="animation-delay:10.827s" />
-<use data-text="ô" xlink:href="#font_7_182" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,235.78003)" fill="#4b6581" class="letter" style="animation-delay:10.855s" />
-<use data-text="i" xlink:href="#font_7_76" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,227.73734)" fill="#4b6581" class="letter" style="animation-delay:10.883s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,223.77307)" fill="#4b6581" class="letter" style="animation-delay:10.912s" />
-<use data-text="N" xlink:href="#font_7_49" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,220.3987)" fill="#4b6581" class="letter" style="animation-delay:10.940s" />
-<use data-text="G" xlink:href="#font_7_42" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,209.83792)" fill="#4b6581" class="letter" style="animation-delay:10.968s" />
-<use data-text="A" xlink:href="#font_7_36" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,200.43152)" fill="#4b6581" class="letter" style="animation-delay:10.996s" />
-<use data-text="N" xlink:href="#font_7_49" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,191.46912)" fill="#4b6581" class="letter" style="animation-delay:11.024s" />
-<use data-text="G" xlink:href="#font_7_42" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,180.90834)" fill="#4b6581" class="letter" style="animation-delay:11.053s" />
-<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,171.50194)" fill="#4b6581" class="letter" style="animation-delay:11.081s" />
-<use data-text="N" xlink:href="#font_7_49" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,168.12757)" fill="#4b6581" class="letter" style="animation-delay:11.109s" />
-<use data-text="G" xlink:href="#font_7_42" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,157.56679)" fill="#4b6581" class="letter" style="animation-delay:11.137s" />
-<use data-text="Ư" xlink:href="#font_7_606" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,148.16039)" fill="#4b6581" class="letter" style="animation-delay:11.165s" />
-<use data-text="Ợ" xlink:href="#font_7_860" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,136.66722)" fill="#4b6581" class="letter" style="animation-delay:11.194s" />
-<use data-text="C" xlink:href="#font_7_38" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,125.947879)" fill="#4b6581" class="letter" style="animation-delay:11.222s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(.31408913,11.397891,11.397891,-.31408913,229.42447,60.349306)" fill="#4b6581" class="letter" style="animation-delay:0.047s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,229.58589,66.207)" fill="#4b6581" class="letter" style="animation-delay:0.094s" />
+<use data-text="ẳ" xlink:href="#font_7_813" transform="matrix(.31408913,11.397891,11.397891,-.31408913,229.79222,73.69461)" fill="#4b6581" class="letter" style="animation-delay:0.141s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,229.98186,80.575878)" fill="#4b6581" class="letter" style="animation-delay:0.188s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(.31408913,11.397891,11.397891,-.31408913,230.18819,88.063488)" fill="#4b6581" class="letter" style="animation-delay:0.235s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,230.38686,95.27296)" fill="#4b6581" class="letter" style="animation-delay:0.282s" />
+<use data-text="q" xlink:href="#font_7_84" transform="matrix(.31408913,11.397891,11.397891,-.31408913,230.46842,98.2324)" fill="#4b6581" class="letter" style="animation-delay:0.329s" />
+<use data-text="u" xlink:href="#font_7_88" transform="matrix(.31408913,11.397891,11.397891,-.31408913,230.66709,105.441867)" fill="#4b6581" class="letter" style="animation-delay:0.376s" />
+<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,230.87342,112.929477)" fill="#4b6581" class="letter" style="animation-delay:0.423s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,231.06304,119.81074)" fill="#4b6581" class="letter" style="animation-delay:0.470s" />
+<use data-text="l" xlink:href="#font_7_79" transform="matrix(.31408913,11.397891,11.397891,-.31408913,231.14459,122.77018)" fill="#4b6581" class="letter" style="animation-delay:0.517s" />
+<use data-text="à" xlink:href="#font_7_162" transform="matrix(.31408913,11.397891,11.397891,-.31408913,231.2404,126.24698)" fill="#4b6581" class="letter" style="animation-delay:0.564s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,231.43003,133.12825)" fill="#4b6581" class="letter" style="animation-delay:0.611s" />
+<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,231.51158,136.08769)" fill="#4b6581" class="letter" style="animation-delay:0.658s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,231.7012,142.96895)" fill="#4b6581" class="letter" style="animation-delay:0.705s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,231.90753,150.45658)" fill="#4b6581" class="letter" style="animation-delay:0.752s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,232.11388,157.94419)" fill="#4b6581" class="letter" style="animation-delay:0.799s" />
+<use data-text="đ" xlink:href="#font_7_211" transform="matrix(.31408913,11.397891,11.397891,-.31408913,232.19542,160.90363)" fill="#4b6581" class="letter" style="animation-delay:0.846s" />
+<use data-text="ã" xlink:href="#font_7_165" transform="matrix(.31408913,11.397891,11.397891,-.31408913,232.39916,168.29666)" fill="#4b6581" class="letter" style="animation-delay:0.893s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,232.58878,175.17794)" fill="#4b6581" class="letter" style="animation-delay:0.940s" />
+<use data-text="đ" xlink:href="#font_7_211" transform="matrix(.31408913,11.397891,11.397891,-.31408913,232.67034,178.13738)" fill="#4b6581" class="letter" style="animation-delay:0.987s" />
+<use data-text="i" xlink:href="#font_7_76" transform="matrix(.31408913,11.397891,11.397891,-.31408913,232.87406,185.53043)" fill="#4b6581" class="letter" style="animation-delay:1.034s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,232.96987,189.00722)" fill="#4b6581" class="letter" style="animation-delay:1.081s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,233.05142,191.96666)" fill="#4b6581" class="letter" style="animation-delay:1.128s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(.31408913,11.397891,11.397891,-.31408913,233.25775,199.45429)" fill="#4b6581" class="letter" style="animation-delay:1.175s" />
+<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,233.45642,206.66374)" fill="#4b6581" class="letter" style="animation-delay:1.222s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,233.64606,213.545)" fill="#4b6581" class="letter" style="animation-delay:1.269s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(.31408913,11.397891,11.397891,-.31408913,233.85239,221.0326)" fill="#4b6581" class="letter" style="animation-delay:1.316s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,234.05106,228.24207)" fill="#4b6581" class="letter" style="animation-delay:1.363s" />
+<use data-text="q" xlink:href="#font_7_84" transform="matrix(.31408913,11.397891,11.397891,-.31408913,234.13262,231.2015)" fill="#4b6581" class="letter" style="animation-delay:1.410s" />
+<use data-text="u" xlink:href="#font_7_88" transform="matrix(.31408913,11.397891,11.397891,-.31408913,234.33129,238.41098)" fill="#4b6581" class="letter" style="animation-delay:1.457s" />
+<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,234.53762,245.8986)" fill="#4b6581" class="letter" style="animation-delay:1.504s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,234.72724,252.77985)" fill="#4b6581" class="letter" style="animation-delay:1.551s" />
+<use data-text="đ" xlink:href="#font_7_211" transform="matrix(.31408913,11.397891,11.397891,-.31408913,234.80879,255.73932)" fill="#4b6581" class="letter" style="animation-delay:1.598s" />
+<use data-text="ú" xlink:href="#font_7_188" transform="matrix(.31408913,11.397891,11.397891,-.31408913,235.01251,263.13236)" fill="#4b6581" class="letter" style="animation-delay:1.645s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,235.21886,270.61997)" fill="#4b6581" class="letter" style="animation-delay:1.692s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(.31408913,11.397891,11.397891,-.31408913,235.42519,278.10758)" fill="#4b6581" class="letter" style="animation-delay:1.739s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,235.62386,285.31706)" fill="#4b6581" class="letter" style="animation-delay:1.786s" />
+<use data-text="m" xlink:href="#font_7_80" transform="matrix(.31408913,11.397891,11.397891,-.31408913,235.70542,288.2765)" fill="#4b6581" class="letter" style="animation-delay:1.833s" />
+<use data-text="ù" xlink:href="#font_7_187" transform="matrix(.31408913,11.397891,11.397891,-.31408913,236.01369,299.4634)" fill="#4b6581" class="letter" style="animation-delay:1.880s" />
+<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,236.22002,306.95103)" fill="#4b6581" class="letter" style="animation-delay:1.927s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,236.40964,313.83229)" fill="#4b6581" class="letter" style="animation-delay:1.974s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,236.4912,316.79173)" fill="#4b6581" class="letter" style="animation-delay:2.021s" />
+<use data-text="o" xlink:href="#font_7_82" transform="matrix(.31408913,11.397891,11.397891,-.31408913,236.69753,324.27937)" fill="#4b6581" class="letter" style="animation-delay:2.068s" />
+<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,236.8919,331.33305)" fill="#4b6581" class="letter" style="animation-delay:2.115s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,237.08153,338.2143)" fill="#4b6581" class="letter" style="animation-delay:2.162s" />
+<use data-text="đ" xlink:href="#font_7_211" transform="matrix(.31408913,11.397891,11.397891,-.31408913,237.16309,341.17375)" fill="#4b6581" class="letter" style="animation-delay:2.209s" />
+<use data-text="ẹ" xlink:href="#font_7_819" transform="matrix(.31408913,11.397891,11.397891,-.31408913,237.36682,348.5668)" fill="#4b6581" class="letter" style="animation-delay:2.256s" />
+<use data-text="p" xlink:href="#font_7_83" transform="matrix(.31408913,11.397891,11.397891,-.31408913,237.5523,355.29786)" fill="#4b6581" class="letter" style="animation-delay:2.303s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,237.75098,362.50733)" fill="#4b6581" class="letter" style="animation-delay:2.350s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,237.83252,365.46678)" fill="#4b6581" class="letter" style="animation-delay:2.397s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,238.03887,372.95439)" fill="#4b6581" class="letter" style="animation-delay:2.444s" />
+<use data-text="ấ" xlink:href="#font_7_799" transform="matrix(.31408913,11.397891,11.397891,-.31408913,238.2452,380.442)" fill="#4b6581" class="letter" style="animation-delay:2.491s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(.31408913,11.397891,11.397891,-.31408913,238.43482,387.32325)" fill="#4b6581" class="letter" style="animation-delay:2.538s" />
+<use data-text="”" xlink:href="#font_7_523" transform="matrix(.31408913,11.397891,11.397891,-.31408913,238.57416,392.3799)" fill="#4b6581" class="letter" style="animation-delay:2.585s" />
+<use data-text="“" xlink:href="#font_7_522" transform="matrix(.31408913,11.397891,11.397891,-.31408913,212.03241,.7129425)" fill="#4b6581" class="letter" style="animation-delay:2.632s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(.31408913,11.397891,11.397891,-.31408913,212.17206,5.7807147)" fill="#4b6581" class="letter" style="animation-delay:2.679s" />
+<use data-text="ì" xlink:href="#font_7_174" transform="matrix(.31408913,11.397891,11.397891,-.31408913,212.30834,10.726103)" fill="#4b6581" class="letter" style="animation-delay:2.726s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,212.40415,14.202897)" fill="#4b6581" class="letter" style="animation-delay:2.773s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,212.61048,21.690508)" fill="#4b6581" class="letter" style="animation-delay:2.820s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,212.8168,29.178118)" fill="#4b6581" class="letter" style="animation-delay:2.867s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(.31408913,11.397891,11.397891,-.31408913,212.89836,32.137559)" fill="#4b6581" class="letter" style="animation-delay:2.914s" />
+<use data-text="ờ" xlink:href="#font_7_855" transform="matrix(.31408913,11.397891,11.397891,-.31408913,213.05979,37.99526)" fill="#4b6581" class="letter" style="animation-delay:2.961s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,213.27301,45.733205)" fill="#4b6581" class="letter" style="animation-delay:3.008s" />
+<use data-text="l" xlink:href="#font_7_79" transform="matrix(.31408913,11.397891,11.397891,-.31408913,213.35457,48.692647)" fill="#4b6581" class="letter" style="animation-delay:3.055s" />
+<use data-text="ọ" xlink:href="#font_7_839" transform="matrix(.31408913,11.397891,11.397891,-.31408913,213.45038,52.169439)" fill="#4b6581" class="letter" style="animation-delay:3.102s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(.31408913,11.397891,11.397891,-.31408913,213.64476,59.223146)" fill="#4b6581" class="letter" style="animation-delay:3.148s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,213.78104,64.16853)" fill="#4b6581" class="letter" style="animation-delay:3.195s" />
+<use data-text="v" xlink:href="#font_7_89" transform="matrix(.31408913,11.397891,11.397891,-.31408913,213.86258,67.12798)" fill="#4b6581" class="letter" style="animation-delay:3.242s" />
+<use data-text="à" xlink:href="#font_7_162" transform="matrix(.31408913,11.397891,11.397891,-.31408913,214.04117,73.60872)" fill="#4b6581" class="letter" style="animation-delay:3.289s" />
+<use data-text="o" xlink:href="#font_7_82" transform="matrix(.31408913,11.397891,11.397891,-.31408913,214.2308,80.48998)" fill="#4b6581" class="letter" style="animation-delay:3.336s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,214.42517,87.54369)" fill="#4b6581" class="letter" style="animation-delay:3.383s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,214.50673,90.503139)" fill="#4b6581" class="letter" style="animation-delay:3.430s" />
+<use data-text="u" xlink:href="#font_7_88" transform="matrix(.31408913,11.397891,11.397891,-.31408913,214.71306,97.990749)" fill="#4b6581" class="letter" style="animation-delay:3.477s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,214.9194,105.478359)" fill="#4b6581" class="letter" style="animation-delay:3.524s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(.31408913,11.397891,11.397891,-.31408913,215.00095,108.4378)" fill="#4b6581" class="letter" style="animation-delay:3.571s" />
+<use data-text="ư" xlink:href="#font_7_607" transform="matrix(.31408913,11.397891,11.397891,-.31408913,215.16237,114.295497)" fill="#4b6581" class="letter" style="animation-delay:3.618s" />
+<use data-text="ờ" xlink:href="#font_7_855" transform="matrix(.31408913,11.397891,11.397891,-.31408913,215.4009,122.95131)" fill="#4b6581" class="letter" style="animation-delay:3.665s" />
+<use data-text="i" xlink:href="#font_7_76" transform="matrix(.31408913,11.397891,11.397891,-.31408913,215.61414,130.68926)" fill="#4b6581" class="letter" style="animation-delay:3.712s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,215.70995,134.16606)" fill="#4b6581" class="letter" style="animation-delay:3.759s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,215.79149,137.1255)" fill="#4b6581" class="letter" style="animation-delay:3.806s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(.31408913,11.397891,11.397891,-.31408913,215.99784,144.61312)" fill="#4b6581" class="letter" style="animation-delay:3.853s" />
+<use data-text="ọ" xlink:href="#font_7_839" transform="matrix(.31408913,11.397891,11.397891,-.31408913,216.1965,151.82257)" fill="#4b6581" class="letter" style="animation-delay:3.900s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(.31408913,11.397891,11.397891,-.31408913,216.39087,158.87628)" fill="#4b6581" class="letter" style="animation-delay:3.947s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,216.52716,163.82167)" fill="#4b6581" class="letter" style="animation-delay:3.994s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,216.6087,166.78112)" fill="#4b6581" class="letter" style="animation-delay:4.041s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(.31408913,11.397891,11.397891,-.31408913,216.81504,174.26873)" fill="#4b6581" class="letter" style="animation-delay:4.088s" />
+<use data-text="à" xlink:href="#font_7_162" transform="matrix(.31408913,11.397891,11.397891,-.31408913,217.0137,181.4782)" fill="#4b6581" class="letter" style="animation-delay:4.135s" />
+<use data-text="o" xlink:href="#font_7_82" transform="matrix(.31408913,11.397891,11.397891,-.31408913,217.20334,188.35945)" fill="#4b6581" class="letter" style="animation-delay:4.182s" />
+<use data-text="," xlink:href="#font_7_15" transform="matrix(.31408913,11.397891,11.397891,-.31408913,217.3977,195.41318)" fill="#4b6581" class="letter" style="animation-delay:4.229s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,217.48725,198.66188)" fill="#4b6581" class="letter" style="animation-delay:4.276s" />
+<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,217.56879,201.6213)" fill="#4b6581" class="letter" style="animation-delay:4.323s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,217.75843,208.50258)" fill="#4b6581" class="letter" style="animation-delay:4.370s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,217.96475,215.9902)" fill="#4b6581" class="letter" style="animation-delay:4.417s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,218.17108,223.4778)" fill="#4b6581" class="letter" style="animation-delay:4.464s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(.31408913,11.397891,11.397891,-.31408913,218.25264,226.43724)" fill="#4b6581" class="letter" style="animation-delay:4.511s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,218.38892,231.38263)" fill="#4b6581" class="letter" style="animation-delay:4.558s" />
+<use data-text="ề" xlink:href="#font_7_827" transform="matrix(.31408913,11.397891,11.397891,-.31408913,218.59525,238.87024)" fill="#4b6581" class="letter" style="animation-delay:4.605s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,218.78073,245.60132)" fill="#4b6581" class="letter" style="animation-delay:4.652s" />
+<use data-text="k" xlink:href="#font_7_78" transform="matrix(.31408913,11.397891,11.397891,-.31408913,218.86229,248.56073)" fill="#4b6581" class="letter" style="animation-delay:4.699s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,219.05698,255.62558)" fill="#4b6581" class="letter" style="animation-delay:4.746s" />
+<use data-text="ô" xlink:href="#font_7_182" transform="matrix(.31408913,11.397891,11.397891,-.31408913,219.2633,263.1132)" fill="#4b6581" class="letter" style="animation-delay:4.793s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,219.45769,270.1669)" fill="#4b6581" class="letter" style="animation-delay:4.840s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(.31408913,11.397891,11.397891,-.31408913,219.66402,277.6545)" fill="#4b6581" class="letter" style="animation-delay:4.887s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,219.86269,284.86399)" fill="#4b6581" class="letter" style="animation-delay:4.934s" />
+<use data-text="b" xlink:href="#font_7_69" transform="matrix(.31408913,11.397891,11.397891,-.31408913,219.94425,287.82344)" fill="#4b6581" class="letter" style="animation-delay:4.981s" />
+<use data-text="i" xlink:href="#font_7_76" transform="matrix(.31408913,11.397891,11.397891,-.31408913,220.14292,295.0329)" fill="#4b6581" class="letter" style="animation-delay:5.028s" />
+<use data-text="ế" xlink:href="#font_7_825" transform="matrix(.31408913,11.397891,11.397891,-.31408913,220.23873,298.50968)" fill="#4b6581" class="letter" style="animation-delay:5.075s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(.31408913,11.397891,11.397891,-.31408913,220.42421,305.24076)" fill="#4b6581" class="letter" style="animation-delay:5.122s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,220.56049,310.18614)" fill="#4b6581" class="letter" style="animation-delay:5.169s" />
+<use data-text="đ" xlink:href="#font_7_211" transform="matrix(.31408913,11.397891,11.397891,-.31408913,220.64205,313.1456)" fill="#4b6581" class="letter" style="animation-delay:5.216s" />
+<use data-text="ư" xlink:href="#font_7_607" transform="matrix(.31408913,11.397891,11.397891,-.31408913,220.84577,320.53865)" fill="#4b6581" class="letter" style="animation-delay:5.263s" />
+<use data-text="ờ" xlink:href="#font_7_855" transform="matrix(.31408913,11.397891,11.397891,-.31408913,221.08429,329.19444)" fill="#4b6581" class="letter" style="animation-delay:5.310s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(.31408913,11.397891,11.397891,-.31408913,221.29753,336.93238)" fill="#4b6581" class="letter" style="animation-delay:5.357s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(.31408913,11.397891,11.397891,-.31408913,221.50386,344.42)" fill="#4b6581" class="letter" style="animation-delay:5.404s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,221.70253,351.62947)" fill="#4b6581" class="letter" style="animation-delay:5.451s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(.31408913,11.397891,11.397891,-.31408913,221.78409,354.5889)" fill="#4b6581" class="letter" style="animation-delay:5.498s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(.31408913,11.397891,11.397891,-.31408913,221.92037,359.5343)" fill="#4b6581" class="letter" style="animation-delay:5.545s" />
+<use data-text="o" xlink:href="#font_7_82" transform="matrix(.31408913,11.397891,11.397891,-.31408913,222.1267,367.02189)" fill="#4b6581" class="letter" style="animation-delay:5.592s" />
+<use data-text="á" xlink:href="#font_7_163" transform="matrix(.31408913,11.397891,11.397891,-.31408913,222.32108,374.07563)" fill="#4b6581" class="letter" style="animation-delay:5.639s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(.31408913,11.397891,11.397891,-.31408913,222.5107,380.95689)" fill="#4b6581" class="letter" style="animation-delay:5.686s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,222.64698,385.90229)" fill="#4b6581" class="letter" style="animation-delay:5.733s" />
+<use data-text="r" xlink:href="#font_7_85" transform="matrix(.31408913,11.397891,11.397891,-.31408913,222.72853,388.8617)" fill="#4b6581" class="letter" style="animation-delay:5.780s" />
+<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,222.86803,393.92387)" fill="#4b6581" class="letter" style="animation-delay:5.827s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,223.05765,400.8051)" fill="#4b6581" class="letter" style="animation-delay:5.874s" />
+<use data-text="l" xlink:href="#font_7_79" transform="matrix(.31408913,11.397891,11.397891,-.31408913,223.1392,403.7646)" fill="#4b6581" class="letter" style="animation-delay:5.921s" />
+<use data-text="à" xlink:href="#font_7_162" transform="matrix(.31408913,11.397891,11.397891,-.31408913,223.23502,407.2414)" fill="#4b6581" class="letter" style="animation-delay:5.968s" />
+<use data-text="m" xlink:href="#font_7_80" transform="matrix(.31408913,11.397891,11.397891,-.31408913,223.42464,414.12266)" fill="#4b6581" class="letter" style="animation-delay:6.015s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,223.73291,425.30958)" fill="#4b6581" class="letter" style="animation-delay:6.062s" />
+<use data-text="s" xlink:href="#font_7_86" transform="matrix(.31408913,11.397891,11.397891,-.31408913,223.81447,428.26899)" fill="#4b6581" class="letter" style="animation-delay:6.109s" />
+<use data-text="a" xlink:href="#font_7_68" transform="matrix(.31408913,11.397891,11.397891,-.31408913,223.97052,433.93196)" fill="#4b6581" class="letter" style="animation-delay:6.156s" />
+<use data-text="o" xlink:href="#font_7_82" transform="matrix(.31408913,11.397891,11.397891,-.31408913,224.16014,440.81327)" fill="#4b6581" class="letter" style="animation-delay:6.203s" />
+<use data-text="”" xlink:href="#font_7_523" transform="matrix(.31408913,11.397891,11.397891,-.31408913,224.353,447.81129)" fill="#4b6581" class="letter" style="animation-delay:6.250s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(.31408913,11.397891,11.397891,-.31408913,224.49285,452.88645)" fill="#4b6581" class="letter" style="animation-delay:6.297s" />
+<use data-text="T" xlink:href="#font_7_55" transform="matrix(12.849048,0,0,-12.849048,42.192274,36.95855)" fill="#4b6581" class="letter" style="animation-delay:6.344s" />
+<use data-text="u" xlink:href="#font_7_88" transform="matrix(12.849048,0,0,-12.849048,49.312967,36.95855)" fill="#4b6581" class="letter" style="animation-delay:6.391s" />
+<use data-text="ổ" xlink:href="#font_7_847" transform="matrix(12.849048,0,0,-12.849048,57.750314,36.95855)" fill="#4b6581" class="letter" style="animation-delay:6.438s" />
+<use data-text="i" xlink:href="#font_7_76" transform="matrix(12.849048,0,0,-12.849048,65.698719,36.95855)" fill="#4b6581" class="letter" style="animation-delay:6.485s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,69.6165,36.95855)" fill="#4b6581" class="letter" style="animation-delay:6.532s" />
+<use data-text="m" xlink:href="#font_7_80" transform="matrix(12.849048,0,0,-12.849048,72.951328,36.95855)" fill="#4b6581" class="letter" style="animation-delay:6.579s" />
+<use data-text="ớ" xlink:href="#font_7_853" transform="matrix(12.849048,0,0,-12.849048,85.55719,36.95855)" fill="#4b6581" class="letter" style="animation-delay:6.626s" />
+<use data-text="i" xlink:href="#font_7_76" transform="matrix(12.849048,0,0,-12.849048,94.27662,36.95855)" fill="#4b6581" class="letter" style="animation-delay:6.673s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,98.19441,36.95855)" fill="#4b6581" class="letter" style="animation-delay:6.720s" />
+<use data-text="s" xlink:href="#font_7_86" transform="matrix(12.849048,0,0,-12.849048,101.52923,36.95855)" fill="#4b6581" class="letter" style="animation-delay:6.767s" />
+<use data-text="a" xlink:href="#font_7_68" transform="matrix(12.849048,0,0,-12.849048,107.91052,36.95855)" fill="#4b6581" class="letter" style="animation-delay:6.814s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,115.6646,36.95855)" fill="#4b6581" class="letter" style="animation-delay:6.861s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,124.101947,36.95855)" fill="#4b6581" class="letter" style="animation-delay:6.908s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,132.22588,36.95855)" fill="#4b6581" class="letter" style="animation-delay:6.955s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(12.849048,0,0,-12.849048,135.56069,36.95855)" fill="#4b6581" class="letter" style="animation-delay:7.002s" />
+<use data-text="r" xlink:href="#font_7_85" transform="matrix(12.849048,0,0,-12.849048,141.13335,36.95855)" fill="#4b6581" class="letter" style="animation-delay:7.049s" />
+<use data-text="a" xlink:href="#font_7_68" transform="matrix(12.849048,0,0,-12.849048,146.83753,36.95855)" fill="#4b6581" class="letter" style="animation-delay:7.096s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,154.59162,36.95855)" fill="#4b6581" class="letter" style="animation-delay:7.143s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,163.02896,36.95855)" fill="#4b6581" class="letter" style="animation-delay:7.190s" />
+<use data-text="N" xlink:href="#font_7_49" transform="matrix(12.849048,0,0,-12.849048,42.192274,54.95021)" fill="#4b6581" class="letter" style="animation-delay:7.237s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,52.629259,54.95021)" fill="#4b6581" class="letter" style="animation-delay:7.284s" />
+<use data-text="à" xlink:href="#font_7_162" transform="matrix(12.849048,0,0,-12.849048,60.753179,54.95021)" fill="#4b6581" class="letter" style="animation-delay:7.331s" />
+<use data-text="y" xlink:href="#font_7_92" transform="matrix(12.849048,0,0,-12.849048,68.50726,54.95021)" fill="#4b6581" class="letter" style="animation-delay:7.378s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,75.81001,54.95021)" fill="#4b6581" class="letter" style="animation-delay:7.425s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(12.849048,0,0,-12.849048,79.14484,54.95021)" fill="#4b6581" class="letter" style="animation-delay:7.472s" />
+<use data-text="à" xlink:href="#font_7_162" transform="matrix(12.849048,0,0,-12.849048,85.74552,54.95021)" fill="#4b6581" class="letter" style="animation-delay:7.519s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,93.4996,54.95021)" fill="#4b6581" class="letter" style="animation-delay:7.566s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,101.93695,54.95021)" fill="#4b6581" class="letter" style="animation-delay:7.613s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,110.06087,54.95021)" fill="#4b6581" class="letter" style="animation-delay:7.660s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,113.39569,54.95021)" fill="#4b6581" class="letter" style="animation-delay:7.707s" />
+<use data-text="i" xlink:href="#font_7_76" transform="matrix(12.849048,0,0,-12.849048,121.51962,54.95021)" fill="#4b6581" class="letter" style="animation-delay:7.754s" />
+<use data-text="ỏ" xlink:href="#font_7_841" transform="matrix(12.849048,0,0,-12.849048,125.43741,54.95021)" fill="#4b6581" class="letter" style="animation-delay:7.801s" />
+<use data-text="i" xlink:href="#font_7_76" transform="matrix(12.849048,0,0,-12.849048,133.3858,54.95021)" fill="#4b6581" class="letter" style="animation-delay:7.848s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,137.30359,54.95021)" fill="#4b6581" class="letter" style="animation-delay:7.895s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,140.63842,54.95021)" fill="#4b6581" class="letter" style="animation-delay:7.942s" />
+<use data-text="i" xlink:href="#font_7_76" transform="matrix(12.849048,0,0,-12.849048,148.76235,54.95021)" fill="#4b6581" class="letter" style="animation-delay:7.989s" />
+<use data-text="a" xlink:href="#font_7_68" transform="matrix(12.849048,0,0,-12.849048,152.68013,54.95021)" fill="#4b6581" class="letter" style="animation-delay:8.036s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,160.4342,54.95021)" fill="#4b6581" class="letter" style="animation-delay:8.083s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,168.87155,54.95021)" fill="#4b6581" class="letter" style="animation-delay:8.130s" />
+<use data-text="S" xlink:href="#font_7_54" transform="matrix(12.849048,0,0,-12.849048,42.192274,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.177s" />
+<use data-text="ự" xlink:href="#font_7_875" transform="matrix(12.849048,0,0,-12.849048,49.263093,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.224s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,59.016817,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.271s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,62.351636,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.318s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,70.78898,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.365s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(12.849048,0,0,-12.849048,78.9129,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.412s" />
+<use data-text="i" xlink:href="#font_7_76" transform="matrix(12.849048,0,0,-12.849048,87.35025,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.459s" />
+<use data-text="ệ" xlink:href="#font_7_833" transform="matrix(12.849048,0,0,-12.849048,91.268039,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.506s" />
+<use data-text="p" xlink:href="#font_7_83" transform="matrix(12.849048,0,0,-12.849048,98.852878,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.553s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,106.97679,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.600s" />
+<use data-text="v" xlink:href="#font_7_89" transform="matrix(12.849048,0,0,-12.849048,110.311618,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.647s" />
+<use data-text="ữ" xlink:href="#font_7_873" transform="matrix(12.849048,0,0,-12.849048,117.614368,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.694s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,127.36809,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.741s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,135.80544,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.788s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,143.92935,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.835s" />
+<use data-text="v" xlink:href="#font_7_89" transform="matrix(12.849048,0,0,-12.849048,147.26418,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.882s" />
+<use data-text="à" xlink:href="#font_7_162" transform="matrix(12.849048,0,0,-12.849048,154.56693,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.929s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,162.32102,72.94188)" fill="#4b6581" class="letter" style="animation-delay:8.976s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,170.75836,72.94188)" fill="#4b6581" class="letter" style="animation-delay:9.023s" />
+<use data-text="D" xlink:href="#font_7_39" transform="matrix(12.849048,0,0,-12.849048,42.192274,90.93355)" fill="#4b6581" class="letter" style="animation-delay:9.070s" />
+<use data-text="ị" xlink:href="#font_7_837" transform="matrix(12.849048,0,0,-12.849048,51.695257,90.93355)" fill="#4b6581" class="letter" style="animation-delay:9.117s" />
+<use data-text="u" xlink:href="#font_7_88" transform="matrix(12.849048,0,0,-12.849048,55.61304,90.93355)" fill="#4b6581" class="letter" style="animation-delay:9.164s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,64.050388,90.93355)" fill="#4b6581" class="letter" style="animation-delay:9.211s" />
+<use data-text="d" xlink:href="#font_7_71" transform="matrix(12.849048,0,0,-12.849048,67.38521,90.93355)" fill="#4b6581" class="letter" style="animation-delay:9.258s" />
+<use data-text="à" xlink:href="#font_7_162" transform="matrix(12.849048,0,0,-12.849048,75.509128,90.93355)" fill="#4b6581" class="letter" style="animation-delay:9.305s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,83.263217,90.93355)" fill="#4b6581" class="letter" style="animation-delay:9.352s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,91.70056,90.93355)" fill="#4b6581" class="letter" style="animation-delay:9.398s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,99.82448,90.93355)" fill="#4b6581" class="letter" style="animation-delay:9.445s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(12.849048,0,0,-12.849048,103.1593,90.93355)" fill="#4b6581" class="letter" style="animation-delay:9.492s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(12.849048,0,0,-12.849048,108.731967,90.93355)" fill="#4b6581" class="letter" style="animation-delay:9.539s" />
+<use data-text="u" xlink:href="#font_7_88" transform="matrix(12.849048,0,0,-12.849048,117.16931,90.93355)" fill="#4b6581" class="letter" style="animation-delay:9.586s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(12.849048,0,0,-12.849048,125.60664,90.93355)" fill="#4b6581" class="letter" style="animation-delay:9.633s" />
+<use data-text="s" xlink:href="#font_7_86" transform="matrix(12.849048,0,0,-12.849048,128.94147,90.93355)" fill="#4b6581" class="letter" style="animation-delay:9.680s" />
+<use data-text="a" xlink:href="#font_7_68" transform="matrix(12.849048,0,0,-12.849048,135.32277,90.93355)" fill="#4b6581" class="letter" style="animation-delay:9.727s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(12.849048,0,0,-12.849048,143.07685,90.93355)" fill="#4b6581" class="letter" style="animation-delay:9.774s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(12.849048,0,0,-12.849048,151.51419,90.93355)" fill="#4b6581" class="letter" style="animation-delay:9.821s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,197.54802,276.14219)" fill="#4b6581" class="letter" style="animation-delay:9.868s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,190.86904,276.14219)" fill="#4b6581" class="letter" style="animation-delay:9.915s" />
+<use data-text="ú" xlink:href="#font_7_188" transform="matrix(-12.991481,0,-0,12.991481,182.3316,276.14219)" fill="#4b6581" class="letter" style="animation-delay:9.962s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,173.79419,276.14219)" fill="#4b6581" class="letter" style="animation-delay:10.009s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,167.1152,276.14219)" fill="#4b6581" class="letter" style="animation-delay:10.056s" />
+<use data-text="m" xlink:href="#font_7_80" transform="matrix(-12.991481,0,-0,12.991481,163.74083,276.14219)" fill="#4b6581" class="letter" style="animation-delay:10.103s" />
+<use data-text="ừ" xlink:href="#font_7_869" transform="matrix(-12.991481,0,-0,12.991481,150.98543,276.14219)" fill="#4b6581" class="letter" style="animation-delay:10.150s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,141.11603,276.14219)" fill="#4b6581" class="letter" style="animation-delay:10.197s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(-12.991481,0,-0,12.991481,132.5786,276.14219)" fill="#4b6581" class="letter" style="animation-delay:10.244s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,124.358318,276.14219)" fill="#4b6581" class="letter" style="animation-delay:10.291s" />
+<use data-text="s" xlink:href="#font_7_86" transform="matrix(-12.991481,0,-0,12.991481,120.98394,276.14219)" fill="#4b6581" class="letter" style="animation-delay:10.338s" />
+<use data-text="i" xlink:href="#font_7_76" transform="matrix(-12.991481,0,-0,12.991481,114.526958,276.14219)" fill="#4b6581" class="letter" style="animation-delay:10.385s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,110.5627,276.14219)" fill="#4b6581" class="letter" style="animation-delay:10.432s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,102.02527,276.14219)" fill="#4b6581" class="letter" style="animation-delay:10.479s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,93.48785,276.14219)" fill="#4b6581" class="letter" style="animation-delay:10.526s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,90.11347,276.14219)" fill="#4b6581" class="letter" style="animation-delay:10.573s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,81.57605,276.14219)" fill="#4b6581" class="letter" style="animation-delay:10.620s" />
+<use data-text="ậ" xlink:href="#font_7_807" transform="matrix(-12.991481,0,-0,12.991481,73.038639,276.14219)" fill="#4b6581" class="letter" style="animation-delay:10.667s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(-12.991481,0,-0,12.991481,65.192569,276.14219)" fill="#4b6581" class="letter" style="animation-delay:10.714s" />
+<use data-text="p" xlink:href="#font_7_83" transform="matrix(-12.991481,0,-0,12.991481,197.77057,258.1505)" fill="#4b6581" class="letter" style="animation-delay:10.761s" />
+<use data-text="l" xlink:href="#font_7_79" transform="matrix(-12.991481,0,-0,12.991481,189.5503,258.1505)" fill="#4b6581" class="letter" style="animation-delay:10.808s" />
+<use data-text="y" xlink:href="#font_7_92" transform="matrix(-12.991481,0,-0,12.991481,185.58603,258.1505)" fill="#4b6581" class="letter" style="animation-delay:10.855s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,178.19664,258.1505)" fill="#4b6581" class="letter" style="animation-delay:10.902s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(-12.991481,0,-0,12.991481,174.82227,258.1505)" fill="#4b6581" class="letter" style="animation-delay:10.949s" />
+<use data-text="u" xlink:href="#font_7_88" transform="matrix(-12.991481,0,-0,12.991481,169.1835,258.1505)" fill="#4b6581" class="letter" style="animation-delay:10.996s" />
+<use data-text="ổ" xlink:href="#font_7_847" transform="matrix(-12.991481,0,-0,12.991481,160.64609,258.1505)" fill="#4b6581" class="letter" style="animation-delay:11.043s" />
+<use data-text="i" xlink:href="#font_7_76" transform="matrix(-12.991481,0,-0,12.991481,152.6034,258.1505)" fill="#4b6581" class="letter" style="animation-delay:11.090s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,148.63915,258.1505)" fill="#4b6581" class="letter" style="animation-delay:11.137s" />
+<use data-text="1" xlink:href="#font_7_20" transform="matrix(-12.991481,0,-0,12.991481,145.26477,258.1505)" fill="#4b6581" class="letter" style="animation-delay:11.184s" />
+<use data-text="8" xlink:href="#font_7_27" transform="matrix(-12.991481,0,-0,12.991481,137.83733,258.1505)" fill="#4b6581" class="letter" style="animation-delay:11.231s" />
+<use data-text="(" xlink:href="#font_7_11" transform="matrix(-12.991481,0,-0,12.991481,130.40988,258.1505)" fill="#4b6581" class="letter" style="animation-delay:11.278s" />
+<use data-text="l" xlink:href="#font_7_79" transform="matrix(-12.991481,0,-0,12.991481,126.00798,258.1505)" fill="#4b6581" class="letter" style="animation-delay:11.325s" />
+<use data-text="ầ" xlink:href="#font_7_801" transform="matrix(-12.991481,0,-0,12.991481,122.04372,258.1505)" fill="#4b6581" class="letter" style="animation-delay:11.372s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,114.197658,258.1505)" fill="#4b6581" class="letter" style="animation-delay:11.419s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,105.66023,258.1505)" fill="#4b6581" class="letter" style="animation-delay:11.466s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(-12.991481,0,-0,12.991481,102.28586,258.1505)" fill="#4b6581" class="letter" style="animation-delay:11.513s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,96.647098,258.1505)" fill="#4b6581" class="letter" style="animation-delay:11.560s" />
+<use data-text="ứ" xlink:href="#font_7_867" transform="matrix(-12.991481,0,-0,12.991481,88.10967,258.1505)" fill="#4b6581" class="letter" style="animation-delay:11.607s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,78.240268,258.1505)" fill="#4b6581" class="letter" style="animation-delay:11.654s" />
+<use data-text="4" xlink:href="#font_7_23" transform="matrix(-12.991481,0,-0,12.991481,74.86589,258.1505)" fill="#4b6581" class="letter" style="animation-delay:11.701s" />
+<use data-text=")" xlink:href="#font_7_12" transform="matrix(-12.991481,0,-0,12.991481,67.438449,258.1505)" fill="#4b6581" class="letter" style="animation-delay:11.748s" />
+<use data-text="." xlink:href="#font_7_17" transform="matrix(-12.991481,0,-0,12.991481,63.036546,258.1505)" fill="#4b6581" class="letter" style="animation-delay:11.795s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,203.47496,240.15885)" fill="#4b6581" class="letter" style="animation-delay:11.842s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,196.79598,240.15885)" fill="#4b6581" class="letter" style="animation-delay:11.889s" />
+<use data-text="ú" xlink:href="#font_7_188" transform="matrix(-12.991481,0,-0,12.991481,188.25855,240.15885)" fill="#4b6581" class="letter" style="animation-delay:11.936s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,179.72113,240.15885)" fill="#4b6581" class="letter" style="animation-delay:11.983s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,173.04215,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.030s" />
+<use data-text="l" xlink:href="#font_7_79" transform="matrix(-12.991481,0,-0,12.991481,169.66777,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.077s" />
+<use data-text="y" xlink:href="#font_7_92" transform="matrix(-12.991481,0,-0,12.991481,165.7035,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.124s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,158.31414,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.171s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,154.93976,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.218s" />
+<use data-text="à" xlink:href="#font_7_162" transform="matrix(-12.991481,0,-0,12.991481,148.26078,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.265s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,140.4147,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.312s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(-12.991481,0,-0,12.991481,131.87729,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.359s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,123.657,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.406s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,120.28262,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.453s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(-12.991481,0,-0,12.991481,111.7452,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.500s" />
+<use data-text="à" xlink:href="#font_7_162" transform="matrix(-12.991481,0,-0,12.991481,103.52492,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.547s" />
+<use data-text="y" xlink:href="#font_7_92" transform="matrix(-12.991481,0,-0,12.991481,95.678859,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.594s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,88.28948,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.641s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,84.9151,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.688s" />
+<use data-text="à" xlink:href="#font_7_162" transform="matrix(-12.991481,0,-0,12.991481,78.236118,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.735s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,70.39006,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.782s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(-12.991481,0,-0,12.991481,61.85263,240.15885)" fill="#4b6581" class="letter" style="animation-delay:12.829s" />
+<use data-text="x" xlink:href="#font_7_91" transform="matrix(-12.991481,0,-0,12.991481,199.551,222.16718)" fill="#4b6581" class="letter" style="animation-delay:12.876s" />
+<use data-text="i" xlink:href="#font_7_76" transform="matrix(-12.991481,0,-0,12.991481,192.0411,222.16718)" fill="#4b6581" class="letter" style="animation-delay:12.923s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,188.07685,222.16718)" fill="#4b6581" class="letter" style="animation-delay:12.970s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,179.53943,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.017s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,171.002,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.064s" />
+<use data-text="đ" xlink:href="#font_7_211" transform="matrix(-12.991481,0,-0,12.991481,167.62763,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.111s" />
+<use data-text="ẹ" xlink:href="#font_7_819" transform="matrix(-12.991481,0,-0,12.991481,159.19803,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.158s" />
+<use data-text="p" xlink:href="#font_7_83" transform="matrix(-12.991481,0,-0,12.991481,151.52323,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.205s" />
+<use data-text="," xlink:href="#font_7_15" transform="matrix(-12.991481,0,-0,12.991481,143.30295,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.252s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,139.59874,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.299s" />
+<use data-text="r" xlink:href="#font_7_85" transform="matrix(-12.991481,0,-0,12.991481,136.22437,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.346s" />
+<use data-text="ạ" xlink:href="#font_7_795" transform="matrix(-12.991481,0,-0,12.991481,130.45243,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.393s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,122.60636,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.440s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(-12.991481,0,-0,12.991481,114.06894,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.487s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,105.848659,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.534s" />
+<use data-text="r" xlink:href="#font_7_85" transform="matrix(-12.991481,0,-0,12.991481,102.47428,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.581s" />
+<use data-text="ỡ" xlink:href="#font_7_859" transform="matrix(-12.991481,0,-0,12.991481,96.70233,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.628s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,87.87948,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.675s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,84.505107,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.722s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,75.96768,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.769s" />
+<use data-text="ư" xlink:href="#font_7_607" transform="matrix(-12.991481,0,-0,12.991481,67.43025,222.16718)" fill="#4b6581" class="letter" style="animation-delay:13.816s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,204.34175,204.17552)" fill="#4b6581" class="letter" style="animation-delay:13.863s" />
+<use data-text="o" xlink:href="#font_7_82" transform="matrix(-12.991481,0,-0,12.991481,195.80432,204.17552)" fill="#4b6581" class="letter" style="animation-delay:13.910s" />
+<use data-text="a" xlink:href="#font_7_68" transform="matrix(-12.991481,0,-0,12.991481,187.76165,204.17552)" fill="#4b6581" class="letter" style="animation-delay:13.957s" />
+<use data-text="." xlink:href="#font_7_17" transform="matrix(-12.991481,0,-0,12.991481,179.91558,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.004s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,176.21138,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.051s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,172.837,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.098s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,166.15802,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.145s" />
+<use data-text="ú" xlink:href="#font_7_188" transform="matrix(-12.991481,0,-0,12.991481,157.62059,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.192s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,149.08318,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.239s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,142.40418,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.286s" />
+<use data-text="l" xlink:href="#font_7_79" transform="matrix(-12.991481,0,-0,12.991481,139.02982,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.333s" />
+<use data-text="y" xlink:href="#font_7_92" transform="matrix(-12.991481,0,-0,12.991481,135.06555,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.380s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,127.67617,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.427s" />
+<use data-text="l" xlink:href="#font_7_79" transform="matrix(-12.991481,0,-0,12.991481,124.301799,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.474s" />
+<use data-text="u" xlink:href="#font_7_88" transform="matrix(-12.991481,0,-0,12.991481,120.33753,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.521s" />
+<use data-text="ô" xlink:href="#font_7_182" transform="matrix(-12.991481,0,-0,12.991481,111.80011,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.568s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,103.75742,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.615s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,95.22,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.662s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(-12.991481,0,-0,12.991481,91.84563,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.709s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,86.20686,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.756s" />
+<use data-text="à" xlink:href="#font_7_162" transform="matrix(-12.991481,0,-0,12.991481,77.66943,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.803s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,69.82338,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.850s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,61.28595,204.17552)" fill="#4b6581" class="letter" style="animation-delay:14.897s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,199.1996,186.18386)" fill="#4b6581" class="letter" style="animation-delay:14.944s" />
+<use data-text="ô" xlink:href="#font_7_182" transform="matrix(-12.991481,0,-0,12.991481,192.52062,186.18386)" fill="#4b6581" class="letter" style="animation-delay:14.991s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,184.47794,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.038s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(-12.991481,0,-0,12.991481,175.9405,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.085s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,167.72022,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.132s" />
+<use data-text="v" xlink:href="#font_7_89" transform="matrix(-12.991481,0,-0,12.991481,164.34586,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.179s" />
+<use data-text="à" xlink:href="#font_7_162" transform="matrix(-12.991481,0,-0,12.991481,156.95647,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.226s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,149.11042,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.273s" />
+<use data-text="đ" xlink:href="#font_7_211" transform="matrix(-12.991481,0,-0,12.991481,145.73603,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.320s" />
+<use data-text="ạ" xlink:href="#font_7_795" transform="matrix(-12.991481,0,-0,12.991481,137.30643,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.367s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(-12.991481,0,-0,12.991481,129.46036,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.414s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,123.8216,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.461s" />
+<use data-text="đ" xlink:href="#font_7_211" transform="matrix(-12.991481,0,-0,12.991481,120.44723,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.508s" />
+<use data-text="ư" xlink:href="#font_7_607" transform="matrix(-12.991481,0,-0,12.991481,112.01763,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.555s" />
+<use data-text="ợ" xlink:href="#font_7_861" transform="matrix(-12.991481,0,-0,12.991481,102.14822,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.602s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,93.32536,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.648s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,86.64638,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.695s" />
+<use data-text="ư" xlink:href="#font_7_607" transform="matrix(-12.991481,0,-0,12.991481,83.272,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.742s" />
+<use data-text="ớ" xlink:href="#font_7_853" transform="matrix(-12.991481,0,-0,12.991481,73.40259,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.789s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,64.57973,186.18386)" fill="#4b6581" class="letter" style="animation-delay:15.836s" />
+<use data-text="m" xlink:href="#font_7_80" transform="matrix(-12.991481,0,-0,12.991481,171.14618,168.1922)" fill="#4b6581" class="letter" style="animation-delay:15.883s" />
+<use data-text="ơ" xlink:href="#font_7_605" transform="matrix(-12.991481,0,-0,12.991481,158.3908,168.1922)" fill="#4b6581" class="letter" style="animation-delay:15.930s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,149.56793,168.1922)" fill="#4b6581" class="letter" style="animation-delay:15.977s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(-12.991481,0,-0,12.991481,146.19356,168.1922)" fill="#4b6581" class="letter" style="animation-delay:16.024s" />
+<use data-text="ủ" xlink:href="#font_7_865" transform="matrix(-12.991481,0,-0,12.991481,139.51457,168.1922)" fill="#4b6581" class="letter" style="animation-delay:16.071s" />
+<use data-text="a" xlink:href="#font_7_68" transform="matrix(-12.991481,0,-0,12.991481,130.97714,168.1922)" fill="#4b6581" class="letter" style="animation-delay:16.118s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(-12.991481,0,-0,12.991481,123.13109,168.1922)" fill="#4b6581" class="letter" style="animation-delay:16.165s" />
+<use data-text="m" xlink:href="#font_7_80" transform="matrix(-12.991481,0,-0,12.991481,119.756717,168.1922)" fill="#4b6581" class="letter" style="animation-delay:16.212s" />
+<use data-text="ì" xlink:href="#font_7_174" transform="matrix(-12.991481,0,-0,12.991481,107.00132,168.1922)" fill="#4b6581" class="letter" style="animation-delay:16.259s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(-12.991481,0,-0,12.991481,103.037059,168.1922)" fill="#4b6581" class="letter" style="animation-delay:16.306s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(-12.991481,0,-0,12.991481,94.49963,168.1922)" fill="#4b6581" class="letter" style="animation-delay:16.353s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,291.0931)" fill="#4b6581" class="letter" style="animation-delay:16.400s" />
+<use data-text="ô" xlink:href="#font_7_182" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,285.45436)" fill="#4b6581" class="letter" style="animation-delay:16.447s" />
+<use data-text="i" xlink:href="#font_7_76" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,277.41166)" fill="#4b6581" class="letter" style="animation-delay:16.494s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,273.4474)" fill="#4b6581" class="letter" style="animation-delay:16.541s" />
+<use data-text="v" xlink:href="#font_7_89" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,270.07304)" fill="#4b6581" class="letter" style="animation-delay:16.588s" />
+<use data-text="i" xlink:href="#font_7_76" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,262.68367)" fill="#4b6581" class="letter" style="animation-delay:16.635s" />
+<use data-text="ế" xlink:href="#font_7_825" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,258.7194)" fill="#4b6581" class="letter" style="animation-delay:16.682s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,251.04459)" fill="#4b6581" class="letter" style="animation-delay:16.729s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,245.40583)" fill="#4b6581" class="letter" style="animation-delay:16.776s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,242.03145)" fill="#4b6581" class="letter" style="animation-delay:16.823s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,235.35245)" fill="#4b6581" class="letter" style="animation-delay:16.870s" />
+<use data-text="ữ" xlink:href="#font_7_873" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,226.81504)" fill="#4b6581" class="letter" style="animation-delay:16.917s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,216.94562)" fill="#4b6581" class="letter" style="animation-delay:16.964s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,213.57126)" fill="#4b6581" class="letter" style="animation-delay:17.011s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,205.03383)" fill="#4b6581" class="letter" style="animation-delay:17.058s" />
+<use data-text="a" xlink:href="#font_7_68" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,196.81354)" fill="#4b6581" class="letter" style="animation-delay:17.105s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,188.96749)" fill="#4b6581" class="letter" style="animation-delay:17.152s" />
+<use data-text="g" xlink:href="#font_7_74" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,180.43006)" fill="#4b6581" class="letter" style="animation-delay:17.199s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,172.20978)" fill="#4b6581" class="letter" style="animation-delay:17.246s" />
+<use data-text="d" xlink:href="#font_7_71" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,168.8354)" fill="#4b6581" class="letter" style="animation-delay:17.293s" />
+<use data-text="ọ" xlink:href="#font_7_839" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,160.61511)" fill="#4b6581" class="letter" style="animation-delay:17.340s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,152.57244)" fill="#4b6581" class="letter" style="animation-delay:17.387s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,145.89345)" fill="#4b6581" class="letter" style="animation-delay:17.434s" />
+<use data-text="v" xlink:href="#font_7_89" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,142.51908)" fill="#4b6581" class="letter" style="animation-delay:17.481s" />
+<use data-text="ì" xlink:href="#font_7_174" transform="matrix(0,-12.991481,-12.991481,-0,27.222702,135.1297)" fill="#4b6581" class="letter" style="animation-delay:17.528s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,304.58686)" fill="#4b6581" class="letter" style="animation-delay:17.575s" />
+<use data-text="í" xlink:href="#font_7_175" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,298.9481)" fill="#4b6581" class="letter" style="animation-delay:17.622s" />
+<use data-text="n" xlink:href="#font_7_81" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,294.98384)" fill="#4b6581" class="letter" style="animation-delay:17.669s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,286.4464)" fill="#4b6581" class="letter" style="animation-delay:17.716s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,277.909)" fill="#4b6581" class="letter" style="animation-delay:17.763s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,274.5346)" fill="#4b6581" class="letter" style="animation-delay:17.810s" />
+<use data-text="á" xlink:href="#font_7_163" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,267.85563)" fill="#4b6581" class="letter" style="animation-delay:17.857s" />
+<use data-text="c" xlink:href="#font_7_70" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,260.00956)" fill="#4b6581" class="letter" style="animation-delay:17.904s" />
+<use data-text="h" xlink:href="#font_7_75" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,253.33058)" fill="#4b6581" class="letter" style="animation-delay:17.951s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,244.79315)" fill="#4b6581" class="letter" style="animation-delay:17.998s" />
+<use data-text="t" xlink:href="#font_7_87" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,241.4188)" fill="#4b6581" class="letter" style="animation-delay:18.045s" />
+<use data-text="ô" xlink:href="#font_7_182" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,235.78003)" fill="#4b6581" class="letter" style="animation-delay:18.092s" />
+<use data-text="i" xlink:href="#font_7_76" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,227.73734)" fill="#4b6581" class="letter" style="animation-delay:18.139s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,223.77307)" fill="#4b6581" class="letter" style="animation-delay:18.186s" />
+<use data-text="N" xlink:href="#font_7_49" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,220.3987)" fill="#4b6581" class="letter" style="animation-delay:18.233s" />
+<use data-text="G" xlink:href="#font_7_42" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,209.83792)" fill="#4b6581" class="letter" style="animation-delay:18.280s" />
+<use data-text="A" xlink:href="#font_7_36" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,200.43152)" fill="#4b6581" class="letter" style="animation-delay:18.327s" />
+<use data-text="N" xlink:href="#font_7_49" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,191.46912)" fill="#4b6581" class="letter" style="animation-delay:18.374s" />
+<use data-text="G" xlink:href="#font_7_42" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,180.90834)" fill="#4b6581" class="letter" style="animation-delay:18.421s" />
+<use data-text=" " xlink:href="#font_7_3" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,171.50194)" fill="#4b6581" class="letter" style="animation-delay:18.468s" />
+<use data-text="N" xlink:href="#font_7_49" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,168.12757)" fill="#4b6581" class="letter" style="animation-delay:18.515s" />
+<use data-text="G" xlink:href="#font_7_42" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,157.56679)" fill="#4b6581" class="letter" style="animation-delay:18.562s" />
+<use data-text="Ư" xlink:href="#font_7_606" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,148.16039)" fill="#4b6581" class="letter" style="animation-delay:18.609s" />
+<use data-text="Ợ" xlink:href="#font_7_860" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,136.66722)" fill="#4b6581" class="letter" style="animation-delay:18.656s" />
+<use data-text="C" xlink:href="#font_7_38" transform="matrix(0,-12.991481,-12.991481,-0,45.214368,125.947879)" fill="#4b6581" class="letter" style="animation-delay:18.703s" />
 </g>
 </g>
 </g>
