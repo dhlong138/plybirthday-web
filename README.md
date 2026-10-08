@@ -38,5 +38,6 @@ Kiểm tra ở 320×568, 390×844 và desktop: không tràn ngang, chữ/nút tr
 
 Gồm 8 trang nguyên bản từ SN LY.pdf, xuất thành WebP độ cao 1920px. Màn mã 2207 và meme giữ nguyên. Ảnh dùng object-fit: contain để không cắt chữ, ảnh hoặc viền; trên màn hình khác tỷ lệ 9:16 có thể có khoảng nền ở trên/dưới. Vuốt lên/xuống hoặc dùng phím mũi tên để chuyển trang. Thay ảnh tương ứng trong assets/slides khi cập nhật thiết kế. Chữ bên trong ảnh giữ nguyên bản PDF, không thể chọn hoặc sửa trực tiếp trong HTML; alt mô tả được đặt cho từng slide.
 
-Bản này ở branch design/pdf-slides để duyệt; main và GitHub Pages chính chưa đổi.
+Bản PDF đã được đưa lên main và GitHub Pages chính. Link website và mã QR giữ nguyên.
 `nChữ vector xuất hiện từng ký tự lần đầu xem mỗi slide trong mỗi lần mở trang; vuốt quay lại hiện đầy đủ. Tải lại trang đặt lại hiệu ứng. Hai trang ảnh không có lớp chữ riêng nên giữ nguyên. Tôn trọng prefers-reduced-motion.
+
