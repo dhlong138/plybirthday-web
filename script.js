@@ -68,6 +68,23 @@ book.querySelectorAll("[data-target]").forEach((button) => {
 });
 
 if ("IntersectionObserver" in window) {
+  const viewedPages = new WeakSet();
+  const originalImages = new WeakMap();
+  const revealObserver = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (!entry.isIntersecting || !unlocked) return;
+      const image = entry.target.querySelector("[data-animated-src]");
+      if (!image) return;
+      if (!originalImages.has(image)) originalImages.set(image, image.getAttribute("src"));
+      if (!viewedPages.has(entry.target)) {
+        viewedPages.add(entry.target);
+        if (!reducedMotion.matches) image.src = image.dataset.animatedSrc;
+      } else {
+        image.src = originalImages.get(image);
+      }
+    });
+  }, { root: book, threshold: 0.8 });
+  pages.forEach((page) => revealObserver.observe(page));
   const observer = new IntersectionObserver((entries) => {
     entries.forEach((entry) => entry.target.classList.toggle("is-visible", entry.isIntersecting));
   }, { root: book, threshold: 0.5 });
