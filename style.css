@@ -98,3 +98,7 @@ p { font-size: 1rem; line-height: 1.7; color: var(--text-secondary); margin: 0 0
   .motion-enabled .reveal { opacity: 1; transform: none; }
   .gift-button { transition: none; }
 }
+
+/* PDF artwork: contain preserves every edge and all original typography. */
+.birthday-page.pdf-page { padding: 0; background: #eae5dc; overflow: hidden; }
+.slide-image { display: block; width: 100%; height: 100%; object-fit: contain; background: #eae5dc; }

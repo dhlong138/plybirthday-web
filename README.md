@@ -33,3 +33,9 @@ Mở `index.html` trực tiếp trong trình duyệt. Có thể dùng static ser
 ## Kiểm tra sau khi thay nội dung
 
 Kiểm tra ở 320×568, 390×844 và desktop: không tràn ngang, chữ/nút trong vùng an toàn, 3 trang vuốt lên/xuống được, nút mở quà đến trang 2, không lỗi trong console. Kiểm tra cả URL GitHub Pages có tiền tố repository để phát hiện đường dẫn asset sai. Prototype không tải tài nguyên bên ngoài, video hay API.
+
+## Bản thử từ PDF
+
+Gồm 8 trang nguyên bản từ SN LY.pdf, xuất thành WebP độ cao 1920px. Màn mã 2207 và meme giữ nguyên. Ảnh dùng object-fit: contain để không cắt chữ, ảnh hoặc viền; trên màn hình khác tỷ lệ 9:16 có thể có khoảng nền ở trên/dưới. Vuốt lên/xuống hoặc dùng phím mũi tên để chuyển trang. Thay ảnh tương ứng trong assets/slides khi cập nhật thiết kế. Chữ bên trong ảnh giữ nguyên bản PDF, không thể chọn hoặc sửa trực tiếp trong HTML; alt mô tả được đặt cho từng slide.
+
+Bản này ở branch design/pdf-slides để duyệt; main và GitHub Pages chính chưa đổi.
