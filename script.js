@@ -4,6 +4,10 @@
 const book = document.querySelector(".birthday-book");
 const pages = [...book.querySelectorAll(".birthday-page")];
 const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+// Without observers or with reduced motion, show the complete artwork.
+if (reducedMotion.matches || !("IntersectionObserver" in window)) {
+  book.querySelectorAll("[data-full-src]").forEach(image => { image.src = image.dataset.fullSrc; });
+}
 
 // This static passcode is a playful entrance, not server-side authentication.
 const passcode = "2207";
@@ -72,10 +76,10 @@ if ("IntersectionObserver" in window) {
   const originalImages = new WeakMap();
   const revealObserver = new IntersectionObserver((entries) => {
     entries.forEach((entry) => {
-      if (!entry.isIntersecting || !unlocked) return;
+      if (!entry.isIntersecting || entry.intersectionRatio < 0.8 || !unlocked) return;
       const image = entry.target.querySelector("[data-animated-src]");
       if (!image) return;
-      if (!originalImages.has(image)) originalImages.set(image, image.getAttribute("src"));
+      if (!originalImages.has(image)) originalImages.set(image, image.dataset.fullSrc);
       if (!viewedPages.has(entry.target)) {
         viewedPages.add(entry.target);
         if (!reducedMotion.matches) image.src = image.dataset.animatedSrc;

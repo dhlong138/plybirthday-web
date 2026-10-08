@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="255" height="453.75" viewBox="0 0 255 453.75">
-<style>.letter{opacity:0;animation:appear 280ms ease-out forwards}@keyframes appear{0%{opacity:0;filter:blur(.15px)}50%{opacity:.4;filter:blur(.08px)}100%{opacity:1;filter:blur(0)}}@media(prefers-reduced-motion:reduce){.letter{opacity:1;animation:none}}</style><defs>
+<style>.letter{opacity:0}</style><defs>
 <clipPath id="clip_1">
 <path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H1062.5V1890.625H0Z" clip-rule="evenodd" />
 </clipPath>
